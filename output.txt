@@ -1,1441 +1,1489 @@
-dog            	VBZ,VB            	taupunug
-dog            	VBZ,VB            	taupugnu
-dog            	VBZ,VB            	taupongu.\
-dog            	VBZ,VB            	taupunge=ini
-dog            	VBZ,VB            	tawpong=ini
-dog            	VBZ,VB            	taupunge
-dog            	VBZ,VB            	taupungu=ini.\
-dog            	VBZ,VB            	taupungu=ini
-dog            	VBZ,VB            	tawpong
-dog            	VBZ,VB            	taupngu
-dog            	VBZ,VB            	taupung
-dog            	VBZ,VB            	taupungu,_
-dog            	VBZ,VB            	takurauru
-dog            	VBZ,VB            	taupungu
-dog            	VBZ,VB            	taupungu.\
-dog            	VBZ,VB            	taupungu=ini,\
-discuss        	VBZ,VB            	peaelaela
-sometimes      	VBZ               	laikay
-is             	VBZ               	<L2M^shi
-is             	VBZ               	shi
-dowry          	VBZ               	rarukudrane
-dowry          	VBZ               	^pinliL2M>.\
-dowry          	VBZ               	rarukudrane,\
-dowry          	VBZ               	rarukudrane.\
-dowry          	VBZ               	tatulrevagane
-dowry          	VBZ               	raruku^drane,\
-dowry          	VBZ               	rarukudrane==,\
-dowry          	VBZ               	raruku^drane.\
-dowry          	VBZ               	rarukudrane==,_
-dowry          	VBZ               	<L2M^pinliL2M>,\
-steal          	VBP,VBZ           	na=k<ua>upa
-steal          	VBP,VBZ           	kuaupa
-steal          	VBP,VBZ           	kupa
-steal          	VBP,VBZ           	kupa-ini
-steal          	VBP,VBZ           	wa-kupa
-steal          	VBP,VBZ           	ni-kupa-ane
-steal          	VBP,VBZ           	w-a-kupa
-steal          	VBP,VBZ           	kupa=ini
-steal          	VBP,VBZ           	k<ua>upa
-steal          	VBP,VBZ           	kwaubauba
-come           	VBP,VBN,VBD,VB    	kela-ane
-come           	VBP,VBN,VBD,VB    	i-kela
-come           	VBP,VBN,VBD,VB    	kela=numi
-come           	VBP,VBN,VBD,VB    	buala==
-come           	VBP,VBN,VBD,VB    	kela-kela=numi?\
-come           	VBP,VBN,VBD,VB    	kela=nga
-come           	VBP,VBN,VBD,VB    	a-ki-kela-ane
-come           	VBP,VBN,VBD,VB    	ta-kela-ane=lini
-come           	VBP,VBN,VBD,VB    	kaynganay
-come           	VBP,VBN,VBD,VB    	kela
-come           	VBP,VBN,VBD,VB    	kainganay==
-come           	VBP,VBN,VBD,VB    	w-a-kela-kela
-come           	VBP,VBN,VBD,VB    	kay<nga><nga>nganay
-come           	VBP,VBN,VBD,VB    	w-a-kela
-come           	VBP,VBN,VBD,VB    	kay<ngana>nganay
-come           	VBP,VBN,VBD,VB    	ikela
-come           	VBP,VBN,VBD,VB    	wa-kela-kela
-come           	VBP,VBN,VBD,VB    	kayngalay
-come           	VBP,VBN,VBD,VB    	kayngana-nganay
-come           	VBP,VBN,VBD,VB    	wa-kela
-come           	VBP,VBN,VBD,VB    	kainganai
-come           	VBP,VBN,VBD,VB    	sa-kela
-come           	VBP,VBN,VBD,VB    	kela-kela-nga
-walk           	VBP,VBN,VB        	ka-tuase
-swing          	VBP,VBG,VB        	ngi-ta<lai>lasi,\
-swing          	VBP,VBG,VB        	ta-ngi-talaisi-ane=ini,\
-swing          	VBP,VBG,VB        	tiyuma.\
-swing          	VBP,VBG,VB        	ngi-a-talaisi.\
-swing          	VBP,VBG,VB        	ta-ngi-talaisi-ane
-swing          	VBP,VBG,VB        	tu==ma=lini
-swing          	VBP,VBG,VB        	a-ngi-ta<lai>laisi.\
-swing          	VBP,VBG,VB        	tuma
-swing          	VBP,VBG,VB        	ngi-a-ta<lai>laisi
-swing          	VBP,VBG,VB        	ngi-talaisi-ane
-swing          	VBP,VBG,VB        	talaisi.\
-swing          	VBP,VBG,VB        	ngi-talaisi
-swing          	VBP,VBG,VB        	talaisi=ta,_
-swing          	VBP,VBG,VB        	lu
-swing          	VBP,VBG,VB        	tu-ngi-a-talaisi
-swing          	VBP,VBG,VB        	mu-a-ngi-talaisi
-swing          	VBP,VBG,VB        	talaisi
-swing          	VBP,VBG,VB        	tiyuma
-swing          	VBP,VBG,VB        	ngi-talaisi,\
-swing          	VBP,VBG,VB        	ngi-talai,
-swing          	VBP,VBG,VB        	ta-ngi-ngi-ta<lai>laisi-ane,\
-swing          	VBP,VBG,VB        	ngi-ta<lai>laisi.\
-swing          	VBP,VBG,VB        	^tuma,\
-swing          	VBP,VBG,VB        	talaisi,\
-swing          	VBP,VBG,VB        	ngi-talaisi=su
-swing          	VBP,VBG,VB        	ngi-ta<lai>laisi
-swing          	VBP,VBG,VB        	ta-ngi-ta<lai>laisi-ane
-swing          	VBP,VBG,VB        	talaisi=ta
-swing          	VBP,VBG,VB        	lu-ngi-talaisi
-swing          	VBP,VBG,VB        	talaisi._
-swing          	VBP,VBG,VB        	ngi-a-ta<lai>laisi,\
-work           	VBP,VB            	aungu
-work           	VBP,VB            	sa-tuatumane
-work           	VBP,VB            	lri-tuatumane=su
-work           	VBP,VB            	lu-kaungu=su,\
-work           	VBP,VB            	aungane
-work           	VBP,VB            	ta-kau-aua-ngu-ane=ini.\
-work           	VBP,VB            	si
-work           	VBP,VB            	a-ung-ane
-work           	VBP,VB            	ngi-tuatumane
-work           	VBP,VB            	kaungu
-work           	VBP,VB            	aungane=ta,\
-work           	VBP,VB            	a-unga-ne
-work           	VBP,VB            	kauaungu
-work           	VBP,VB            	maungu.\
-work           	VBP,VB            	kawaungu
-wash           	VBP,VB            	sinaw
-wash           	VBP,VB            	a-sinaw-ane
-want           	VBP,VB            	<L2MyaobaL2M>,\
-want           	VBP,VB            	nau
-want           	VBP,VB            	naw
-want           	VBP,VB            	madu
-want           	VBP,VB            	sana-garauraucu
-want           	VBP,VB            	nau-drele
-want           	VBP,VB            	lapi
-want           	VBP,VB            	sana-malra-malra
-want           	VBP,VB            	yao
-want           	VBP,VB            	sana-dai-daisi
-want           	VBP,VB            	yapi-karudra=nga
-want           	VBP,VB            	naw-palribulu
-want           	VBP,VB            	nau-mu-a
-want           	VBP,VB            	naw==,\
-wait           	VBP,VB            	ki-lavalava
-wait           	VBP,VB            	lri-tara-e-adraw-draw=su
-wait           	VBP,VB            	u-ka-lavalava
-wait           	VBP,VB            	lri-adraudrau=numi
-wait           	VBP,VB            	sa-ki-lavalava-ane
-wait           	VBP,VB            	mu-a-ka-lava
-wait           	VBP,VB            	ukalava
-use            	VBP,VB            	^sarakayane
-use            	VBP,VB            	pangu-tiki
-use            	VBP,VB            	pa-pangua
-use            	VBP,VB            	pangu-dalrane=su.\
-use            	VBP,VB            	arakay
-use            	VBP,VB            	a-arakay
-use            	VBP,VB            	arakay=ta
-use            	VBP,VB            	pangu
-use            	VBP,VB            	pangu-dalra-dalrane
-use            	VBP,VB            	sa-ara-kay-kay-ane
-use            	VBP,VB            	nia-arakay-ane
-use            	VBP,VB            	pangua
-use            	VBP,VB            	pangu-nganga
-use            	VBP,VB            	pangua-lratuku==
-use            	VBP,VB            	sa-arakay-ane
-use            	VBP,VB            	yong
-use            	VBP,VB            	parakay
-use            	VBP,VB            	ta-ececenge-ane
-use            	VBP,VB            	arakay==
-think          	VBP,VB            	ngu-lringaw=aku
-think          	VBP,VB            	pu-lringa-lringaw
-think          	VBP,VB            	pu-a-lringa-lringaw
-think          	VBP,VB            	kidredreme-ane,_
-think          	VBP,VB            	pu-a-lringau-lringau-lringau
-think          	VBP,VB            	a-thingale-ane-ta
-tell           	VBP,VB            	pelaela
-tell           	VBP,VB            	a-pelaela-ane=li
-tell           	VBP,VB            	lri-pelaela=aku
-teach          	VBP,VB            	a-bu-bulru
-teach          	VBP,VB            	wa-bulru=nay-ane
-teach          	VBP,VB            	bulru
-teach          	VBP,VB            	sa-bulru-ane
-teach          	VBP,VB            	ta-bulru-bulru-ane
-teach          	VBP,VB            	ki-bulru-bulru
-teach          	VBP,VB            	abuluane
-talk           	VBP,VB            	ki-a-kau<ria>riva
-talk           	VBP,VB            	taru-malra
-talk           	VBP,VB            	ki-a-matikai
-talk           	VBP,VB            	p<ela>ela
-talk           	VBP,VB            	maka-kauriva
-talk           	VBP,VB            	ki-a-kau<rira>^rira,\
-talk           	VBP,VB            	kauriva
-talk           	VBP,VB            	la-p<ela>ela
-talk           	VBP,VB            	kia-matikai
-take           	VBP,VB            	a-lra-lra
-take           	VBP,VB            	malra=ini
-take           	VBP,VB            	(m)alra
-take           	VBP,VB            	wa-malra-malra
-take           	VBP,VB            	malra-malra=li
-take           	VBP,VB            	ta-malra-malra-ane
-take           	VBP,VB            	mu-alra-ane
-take           	VBP,VB            	ta-malra-malr-ane=ini
-take           	VBP,VB            	ngu-kalra
-take           	VBP,VB            	ki-tu<kunu>kunui
-take           	VBP,VB            	w-a-malra
-take           	VBP,VB            	maka-malra
-take           	VBP,VB            	alra-ane
-take           	VBP,VB            	w-a-malra-malra
-take           	VBP,VB            	alra,\
-take           	VBP,VB            	malra-madu
-take           	VBP,VB            	ta-malra-malr-ane
-take           	VBP,VB            	sana-malra-malra
-take           	VBP,VB            	malra
-take           	VBP,VB            	wa-malra
-take           	VBP,VB            	ta-malra-malr-ane-ini
-take           	VBP,VB            	ngu-vaeva
-take           	VBP,VB            	ecenge
-take           	VBP,VB            	malra=aku
-take           	VBP,VB            	malra-malra
-take           	VBP,VB            	maka-malra-ane
-take           	VBP,VB            	malra=nga
-take           	VBP,VB            	alra
-take           	VBP,VB            	malra=su
-take           	VBP,VB            	lri-malra
-take           	VBP,VB            	a-malra-ane
-take           	VBP,VB            	w-a-malra,\
-take           	VBP,VB            	malra-malra.\
-take           	VBP,VB            	nai-malra
-take           	VBP,VB            	malra=ini,
-take           	VBP,VB            	lu-malra
-take           	VBP,VB            	sa-malra
-take           	VBP,VB            	malra,_
-take           	VBP,VB            	ngu-a-kalra
-take           	VBP,VB            	lalra
-take           	VBP,VB            	ki-a-malra
-sweep          	VBP,VB            	lri-suape=nay
-sweep          	VBP,VB            	a-swape-ane,\
-sweep          	VBP,VB            	suape
-sweep          	VBP,VB            	seledre
-sweep          	VBP,VB            	ki-suape-ane
-sweep          	VBP,VB            	i-suape=nay
-start          	VBP,VB            	pathagili
-start          	VBP,VB            	kaishiL2M>,\
-start          	VBP,VB            	pasagil
-sell           	VBP,VB            	kilangai
-see            	VBP,VB            	dre-dreelre
-see            	VBP,VB            	dreele-ana
-see            	VBP,VB            	nau-drele
-see            	VBP,VB            	drele
-see            	VBP,VB            	dreele-ane
-see            	VBP,VB            	dre-drele
-see            	VBP,VB            	ta-u-ma-dre-dreele-ane
-see            	VBP,VB            	w-a-dre-dre-drele
-see            	VBP,VB            	lu-drelel=aku
-see            	VBP,VB            	dreeele,_
-see            	VBP,VB            	w-a-dre-dre-dreelele
-see            	VBP,VB            	w-a-drele=su
-see            	VBP,VB            	drelre
-see            	VBP,VB            	ta-drele-ane=ini
-see            	VBP,VB            	drele=iniane
-see            	VBP,VB            	dreele-a,\
-see            	VBP,VB            	dre-dre-dreele
-see            	VBP,VB            	dreelre
-see            	VBP,VB            	drela
-see            	VBP,VB            	dre-drel-ane
-see            	VBP,VB            	drele==
-see            	VBP,VB            	sa-drele
-see            	VBP,VB            	taki
-see            	VBP,VB            	dreele
-see            	VBP,VB            	dre-dre-drele
-see            	VBP,VB            	dreele-ane=ta
-see            	VBP,VB            	drelel=aku
-see            	VBP,VB            	dreele-a
-see            	VBP,VB            	drelel
-see            	VBP,VB            	dreele=nga
-see            	VBP,VB            	dreele=numi
-see            	VBP,VB            	pa-dre-drele
-see            	VBP,VB            	w-a-drele
-see            	VBP,VB            	dre-dreele
-say            	VBP,VB            	ma-p<ela>ela==
-say            	VBP,VB            	pealaela=nga
-say            	VBP,VB            	i-pelaela=aku
-say            	VBP,VB            	pa-iya
-say            	VBP,VB            	a-m-iya-kay
-say            	VBP,VB            	iya
-say            	VBP,VB            	a-mati-kay-ane=li
-say            	VBP,VB            	ma-p^<ela>ela
-say            	VBP,VB            	p<ea>laela
-say            	VBP,VB            	amia
-say            	VBP,VB            	iya,\
-say            	VBP,VB            	iya-si
-say            	VBP,VB            	ta-iya-ane=li
-say            	VBP,VB            	sa-iya
-say            	VBP,VB            	amia,,\
-say            	VBP,VB            	pelaela
-say            	VBP,VB            	iya.\
-say            	VBP,VB            	amia-kay
-say            	VBP,VB            	iya=nga=ta
-say            	VBP,VB            	lu-ia
-say            	VBP,VB            	amia-mia
-say            	VBP,VB            	lri-maka-iya
-say            	VBP,VB            	iya.
-say            	VBP,VB            	ta-iya.\
-say            	VBP,VB            	la-iya
-say            	VBP,VB            	ta=iya
-say            	VBP,VB            	lu-iya-ane
-say            	VBP,VB            	ta-pelaela-ane=li
-say            	VBP,VB            	a-iya
-say            	VBP,VB            	ta-ngi-mia-mia-ane
-say            	VBP,VB            	m<iya>iya
-say            	VBP,VB            	ngi-m<iya>iya
-say            	VBP,VB            	mia
-say            	VBP,VB            	iya-ane
-say            	VBP,VB            	asi-a-mia
-say            	VBP,VB            	amia._
-say            	VBP,VB            	a-lu-iya-ane
-say            	VBP,VB            	p<ela>ela
-say            	VBP,VB            	a-iya-ane=li
-say            	VBP,VB            	lu-iya
-say            	VBP,VB            	laiye
-say            	VBP,VB            	na-iya-ne
-say            	VBP,VB            	iya=su
-say            	VBP,VB            	amiya=nga=aku
-say            	VBP,VB            	ngi-miya
-say            	VBP,VB            	asi-amia
-say            	VBP,VB            	iya-ane,_
-say            	VBP,VB            	iya-ane.\
-say            	VBP,VB            	amia=aku,\
-say            	VBP,VB            	a-iya-iya
-say            	VBP,VB            	maka-u-riva-riva
-say            	VBP,VB            	iya-ane,\
-say            	VBP,VB            	yasi==
-say            	VBP,VB            	ma-p<ela>ela
-say            	VBP,VB            	a-pelaela-ane=li
-say            	VBP,VB            	amia.\
-say            	VBP,VB            	lu-iya=ta
-say            	VBP,VB            	amiya
-say            	VBP,VB            	ngi-amia
-say            	VBP,VB            	a-miya
-say            	VBP,VB            	iya-iya
-say            	VBP,VB            	amia,\
-say            	VBP,VB            	jiang
-save           	VBP,VB            	sekete=nga
-save           	VBP,VB            	naw-palribulu
-respect        	VBP,VB            	mu-a-sakene
-play           	VBP,VB            	ki<a><va>vavange
-play           	VBP,VB            	ta-kivavange-ane
-play           	VBP,VB            	ki<va>vavange
-play           	VBP,VB            	kivavange
-pick           	VBP,VB            	polrupu-nai=ini
-pick           	VBP,VB            	makasiludu=nga
-pick           	VBP,VB            	siludu
-pick           	VBP,VB            	lapoto
-meet           	VBP,VB            	ma-dradresenge
-meet           	VBP,VB            	ma-dra-dresenge
-meet           	VBP,VB            	ki<pa><dra>dresenge
-meet           	VBP,VB            	ma-dre-dresenge
-meet           	VBP,VB            	ma-dra-dresenge=ini.\
-meet           	VBP,VB            	lri-alikai
-meet           	VBP,VB            	lani-alikai
-meet           	VBP,VB            	ki-a-pa-dra-dresenge
-make           	VBP,VB            	tu-a-siasilange-ane,_
-make           	VBP,VB            	tu-a-siasi^lange-ane.\
-make           	VBP,VB            	tu-a-siasi^lange-ane,\
-make           	VBP,VB            	zuo
-make           	VBP,VB            	tu-a-siasilange-ane
-make           	VBP,VB            	tinu
-make           	VBP,VB            	tu-a-lrevege
-make           	VBP,VB            	tu-kange=su.\
-make           	VBP,VB            	a-tu-kang-ane.\
-make           	VBP,VB            	saki
-make           	VBP,VB            	tu-a-lrepeng=aku.\
-make           	VBP,VB            	paiya
-look           	VBP,VB            	papu-le-le-lebe
-look           	VBP,VB            	dreele
-like           	VBP,VB            	ngi-mia
-like           	VBP,VB            	ma-dalame,_
-like           	VBP,VB            	mati-da-dalame
-like           	VBP,VB            	mia=su
-like           	VBP,VB            	miakau,\
-like           	VBP,VB            	ngi-miya-miya
-like           	VBP,VB            	maru-dingki
-like           	VBP,VB            	kila
-like           	VBP,VB            	mararamau
-like           	VBP,VB            	xiang
-like           	VBP,VB            	maru-amani=nga
-like           	VBP,VB            	ka-talame=ini
-like           	VBP,VB            	kadalame,\
-like           	VBP,VB            	lau-lri-ka-dalame
-like           	VBP,VB            	ngi-mia-mia=nga
-like           	VBP,VB            	mati-a-da-dalame
-like           	VBP,VB            	miaki
-like           	VBP,VB            	ngi-miya=nga
-like           	VBP,VB            	ka-dalame
-like           	VBP,VB            	Miya-miya
-like           	VBP,VB            	ta-pa-ngi-mi-ane=ini
-like           	VBP,VB            	mia
-like           	VBP,VB            	mia=nga
-like           	VBP,VB            	ngi-miya-iya
-like           	VBP,VB            	tangi-mia-mia
-like           	VBP,VB            	mati-da-dalame.\
-like           	VBP,VB            	ngi-mia-lri=nga
-like           	VBP,VB            	mia=iniane
-like           	VBP,VB            	ka-dalame=aku
-like           	VBP,VB            	maiya
-like           	VBP,VB            	miakitali
-let            	VBP,VB            	anika
-let            	VBP,VB            	sangu-lrialringaw-ane
-let            	VBP,VB            	pangu
-leave          	VBP,VB            	katuase
-leave          	VBP,VB            	ma-tuase=nay
-leave          	VBP,VB            	ka-tuase-ana
-leave          	VBP,VB            	ka-tuase=nga
-leave          	VBP,VB            	ka-tuase,\
-leave          	VBP,VB            	ka-tua-tuase,\
-leave          	VBP,VB            	ka-tua-tuase==
-leave          	VBP,VB            	sa-ka-tuase
-leave          	VBP,VB            	ka-twase
-leave          	VBP,VB            	ka-tuase
-leave          	VBP,VB            	ma-tua-tuase
-leave          	VBP,VB            	ma-u<va>vagai._
-leave          	VBP,VB            	ka-tua-tuase
-leave          	VBP,VB            	katuase-ane
-leave          	VBP,VB            	ka-tuase=aku
-leave          	VBP,VB            	ka-tuase=nga=aku
-leave          	VBP,VB            	lri-ka-tuase
-leave          	VBP,VB            	ka-tua-tuase.\
-leave          	VBP,VB            	ma-tuase
-leave          	VBP,VB            	pa-ka-tuase
-leave          	VBP,VB            	ka-tuase,_
-leave          	VBP,VB            	suru=ini
-leave          	VBP,VB            	sa-ka-<tua>tuase
-leave          	VBP,VB            	ka<tua>tuase==,_
-leave          	VBP,VB            	ka-tuase,
-leave          	VBP,VB            	ka-tua-tuase=nga
-leave          	VBP,VB            	ka-tuase==
-leave          	VBP,VB            	taku-ka-tua-tuase
-leave          	VBP,VB            	kainganay
-leave          	VBP,VB            	ka-tuase=nga=nay.\
-know           	VBP,VB            	thingale,\
-know           	VBP,VB            	thinga-thingale
-know           	VBP,VB            	ma-thinga-thingale
-know           	VBP,VB            	thiathiale
-know           	VBP,VB            	thingale
-know           	VBP,VB            	wa-thingale
-know           	VBP,VB            	a-thingal-ane
-know           	VBP,VB            	w-a-thingale
-know           	VBP,VB            	ki-thia-thingale
-know           	VBP,VB            	ta-ma-sa-thingale-ane=ta
-know           	VBP,VB            	w-a-thinga-thingale
-know           	VBP,VB            	pa-thingale
-know           	VBP,VB            	thia-thia-thingale
-know           	VBP,VB            	pa-thingale-ane
-know           	VBP,VB            	wa-thingale=nga
-know           	VBP,VB            	ki-a-thia-thia-thingaleng==
-know           	VBP,VB            	sa-pa-tu-thingale-ane
-know           	VBP,VB            	sa-ki-thinga-thingale-ane
-know           	VBP,VB            	i-thingale=nga
-know           	VBP,VB            	thingale=nga,_
-join           	VBP,VB            	mua-kipaelre
-help           	VBP,VB            	palra<lua>lupu
-help           	VBP,VB            	mapa-lri-palripulu
-help           	VBP,VB            	ta=pararubu
-help           	VBP,VB            	pararubu
-help           	VBP,VB            	ta-palralup-ane=ta,
-help           	VBP,VB            	nau-pararubu
-help           	VBP,VB            	palribulu
-help           	VBP,VB            	ma-lraru-rarubu.\
-help           	VBP,VB            	ki-palribulru
-help           	VBP,VB            	palribulu==
-help           	VBP,VB            	palra-lua-lupu,
-help           	VBP,VB            	pa-rarubu=iniane,_
-help           	VBP,VB            	paralrubu
-help           	VBP,VB            	lri-palribulu
-help           	VBP,VB            	ralubu
-help           	VBP,VB            	palralupu
-help           	VBP,VB            	palalrubu=ngai
-help           	VBP,VB            	ta-paralubu-ane=nay
-help           	VBP,VB            	palribulu-ana
-help           	VBP,VB            	ta-pa-rarub-ane-su
-help           	VBP,VB            	palralubu
-help           	VBP,VB            	pararubu-ana
-help           	VBP,VB            	ta-palribulu-ane=numi
-have           	VBP,VB            	pi-tukunui-ane
-have           	VBP,VB            	you
-go             	VBP,VB            	mu-a-pungupungu
-go             	VBP,VB            	mu-a==,\
-go             	VBP,VB            	mu-lebe
-go             	VBP,VB            	mu-a-inu-a=ini
-go             	VBP,VB            	mu-ruru
-go             	VBP,VB            	ngu-pa-pa-palange=su
-go             	VBP,VB            	u-cakena
-go             	VBP,VB            	mua-kipaelre
-go             	VBP,VB            	u-belenge
-go             	VBP,VB            	mu-drakerale
-go             	VBP,VB            	mu-belenge
-go             	VBP,VB            	mu-a-dri-adringi
-go             	VBP,VB            	mu-valru
-go             	VBP,VB            	lri-mua=aku
-go             	VBP,VB            	mua==
-go             	VBP,VB            	mu-a-bungubungu
-go             	VBP,VB            	ila-ta
-go             	VBP,VB            	ta-ma-u-sake-sakene-ane
-go             	VBP,VB            	mua
-go             	VBP,VB            	mu-a-dreke.\
-go             	VBP,VB            	nau-mu-a
-go             	VBP,VB            	mua=nga
-go             	VBP,VB            	mu-babiabila
-go             	VBP,VB            	mu-adringi
-go             	VBP,VB            	mu-tavanane.
-go             	VBP,VB            	mu-lrapace
-go             	VBP,VB            	mu-bungubungu
-go             	VBP,VB            	mu-a-lecege
-go             	VBP,VB            	mu-biabila=nga
-go             	VBP,VB            	mu-tavanane
-go             	VBP,VB            	na-muadreke
-go             	VBP,VB            	mu-a-ngi-talaisi
-go             	VBP,VB            	mu-a<lra>lra
-go             	VBP,VB            	ana-mu-a=su
-go             	VBP,VB            	mua-dringa-dringay
-go             	VBP,VB            	mu==
-go             	VBP,VB            	sa-mu-a
-go             	VBP,VB            	u-balriu
-go             	VBP,VB            	wa-mua
-go             	VBP,VB            	mua-inu
-go             	VBP,VB            	mu-su-nagane
-go             	VBP,VB            	lri-mua-dreke=su,_
-go             	VBP,VB            	mu-alra
-go             	VBP,VB            	mua-dringay
-go             	VBP,VB            	mu-a==
-go             	VBP,VB            	mu-a-adringi
-go             	VBP,VB            	mu-ka-mea-meale
-go             	VBP,VB            	mu-drakerane
-go             	VBP,VB            	mu-a-inu
-go             	VBP,VB            	mu-a-belenge
-go             	VBP,VB            	ila
-go             	VBP,VB            	pa
-go             	VBP,VB            	mu-lregelrege,_
-go             	VBP,VB            	qu
-go             	VBP,VB            	mu-laimay,\
-go             	VBP,VB            	u-lebe
-go             	VBP,VB            	mua-cugu
-go             	VBP,VB            	ta-ma-mua-mua-ane
-go             	VBP,VB            	i-mu-adringi=nga
-go             	VBP,VB            	u-dalran
-go             	VBP,VB            	mu-bere.\
-go             	VBP,VB            	mu-latradre
-go             	VBP,VB            	mu-lisi
-go             	VBP,VB            	mu-a-lecege,_
-go             	VBP,VB            	w-a-mua
-go             	VBP,VB            	u-cilri
-go             	VBP,VB            	u-lebe=nga
-go             	VBP,VB            	mu-a-dringa-dringay
-go             	VBP,VB            	mudrakerane
-go             	VBP,VB            	wa-kela
-go             	VBP,VB            	mu-lregelrege
-go             	VBP,VB            	mu-taluvayvay
-go             	VBP,VB            	mu
-go             	VBP,VB            	u-balriu=ta
-go             	VBP,VB            	a-u-pa-palange-ane=nay.\
-go             	VBP,VB            	ta-u-lisi-ane
-go             	VBP,VB            	u-pungupungu
-go             	VBP,VB            	mu-a-ka-lava
-go             	VBP,VB            	u-kiukai
-go             	VBP,VB            	mu-a-sakene
-go             	VBP,VB            	mu-a=lini
-go             	VBP,VB            	lri-mua-ane
-go             	VBP,VB            	mu-a-dreke
-go             	VBP,VB            	mu-alra-ane
-go             	VBP,VB            	mu-adreke
-go             	VBP,VB            	pa-u-cilri
-go             	VBP,VB            	mu-belenge,\
-go             	VBP,VB            	mu-ka-mea-meale-ane
-go             	VBP,VB            	ngu-balriu
-go             	VBP,VB            	mu-cu-cugu=nga
-go             	VBP,VB            	mu-inu
-go             	VBP,VB            	mu-kameameale
-go             	VBP,VB            	lri-mu-gaku=nay
-go             	VBP,VB            	mu-a-inua=ini
-go             	VBP,VB            	mu-a-tail-ane
-go             	VBP,VB            	mu-lri-lri-lrikili
-go             	VBP,VB            	mu-talrubun-ane
-go             	VBP,VB            	u-pa-palange
-go             	VBP,VB            	mu-a-lralra
-go             	VBP,VB            	ta-u-lisi-si-ane
-go             	VBP,VB            	mu-cilri
-go             	VBP,VB            	mu-talrubunu
-go             	VBP,VB            	mu-kiukai
-go             	VBP,VB            	ngu-cungu-cungu
-go             	VBP,VB            	ua
-go             	VBP,VB            	naw=tara-mua
-go             	VBP,VB            	mu-a-ganganga
-go             	VBP,VB            	pa-u-cilr=ini
-go             	VBP,VB            	mua-ane
-go             	VBP,VB            	mu-biabila.\
-go             	VBP,VB            	mu-a-gogo
-go             	VBP,VB            	lri-tara-mua=aku
-go             	VBP,VB            	ta-u-ma-dre-dreele-ane
-go             	VBP,VB            	u-adreke
-go             	VBP,VB            	u-belenge=nga
-go             	VBP,VB            	mu-a-kicacai<cai><cai>ri
-go             	VBP,VB            	mu-a-lriki-lriki=li
-go             	VBP,VB            	mua=nay
-go             	VBP,VB            	sa-mu-lebe
-go             	VBP,VB            	matuase=nay
-go             	VBP,VB            	mu-a-lecege.\
-go             	VBP,VB            	mua-day-dayli=nga
-go             	VBP,VB            	mua-dringi
-go             	VBP,VB            	mu-a
-go             	VBP,VB            	mu-a-lriki-lrikili
-go             	VBP,VB            	mu-gugu=nga
-go             	VBP,VB            	u-ka-lavalava
-go             	VBP,VB            	mu,_
-go             	VBP,VB            	mu-lebe=nga
-go             	VBP,VB            	mua-ini
-go             	VBP,VB            	mu-latadre
-get            	VBP,VB            	pa-ki-a-angatu=su.\
-get            	VBP,VB            	ki-enai=nay
-get            	VBP,VB            	ki-a-kamurauraw
-get            	VBP,VB            	ki-kamadha-madha
-get            	VBP,VB            	ki
-get            	VBP,VB            	ta-ki-bece-becenge-ane.\
-get            	VBP,VB            	ki-barasi=nay
-get            	VBP,VB            	ki-becenge
-get            	VBP,VB            	ki-urasi
-get            	VBP,VB            	ki-kamadha=li
-get            	VBP,VB            	ki-suape-ane
-get            	VBP,VB            	ki-suape
-get            	VBP,VB            	ki-a-a^ngatu,\
-get            	VBP,VB            	ki-a-kamadhamadha
-get            	VBP,VB            	dao
-get            	VBP,VB            	ki-tai
-get            	VBP,VB            	ki-a-kamadha-madha
-get            	VBP,VB            	a-ki-a-angatu-ane.\
-get            	VBP,VB            	ki-a-ka<mura>muraw
-get            	VBP,VB            	de
-fall           	VBP,VB            	na-muadreke
-fall           	VBP,VB            	mu-a-dreke
-fall           	VBP,VB            	lri-mua-dreke=su,_
-fall           	VBP,VB            	mu-a-cilri
-fall           	VBP,VB            	tu-a-verevere
-fall           	VBP,VB            	pa-ururu
-fall           	VBP,VB            	ca-cilri
-fall           	VBP,VB            	pa-ucilri-cilri
-fall           	VBP,VB            	mu-adreke
-fall           	VBP,VB            	sa-ngu-cilri
-fall           	VBP,VB            	makakai
-fall           	VBP,VB            	t-ururu
-fall           	VBP,VB            	pa-ucilri
-fall           	VBP,VB            	mu-ruru
-fall           	VBP,VB            	mu-a-dreke.\
-fall           	VBP,VB            	ngu-adreke
-fall           	VBP,VB            	tu-verevere
-escape         	VBP,VB            	wa-udri-udripi
-escape         	VBP,VB            	ubere
-escape         	VBP,VB            	mu-bere.\
-escape         	VBP,VB            	ubelre
-escape         	VBP,VB            	mu<a>bere
-escape         	VBP,VB            	ngi-lribate
-escape         	VBP,VB            	pa-uadripi
-enter          	VBP,VB            	jindao
-eat            	VBP,VB            	sa-kane-^kane,\
-eat            	VBP,VB            	sa-kane-kane,\
-eat            	VBP,VB            	a-kane-ane
-eat            	VBP,VB            	taku-kane-kane
-eat            	VBP,VB            	kane-ane
-eat            	VBP,VB            	a-kane-kane
-eat            	VBP,VB            	kane.\
-eat            	VBP,VB            	ta-kane-ane-ane
-eat            	VBP,VB            	w-a-kane
-eat            	VBP,VB            	ta-kane-kane-ane,\
-eat            	VBP,VB            	lu-kane
-eat            	VBP,VB            	ki-pa-kane
-eat            	VBP,VB            	kane=numi
-eat            	VBP,VB            	kane
-eat            	VBP,VB            	kanea
-eat            	VBP,VB            	la-kane-ane
-eat            	VBP,VB            	kane-kane=lini
-eat            	VBP,VB            	kane-kane
-eat            	VBP,VB            	ta-kane-kane-ane
-eat            	VBP,VB            	a-kane-ane,\
-eat            	VBP,VB            	sa-kane-kane==,\
-eat            	VBP,VB            	lri-kane-ane
-do             	VBP,VB            	ta-pia-ane=ini
-do             	VBP,VB            	tu-capi-capili
-do             	VBP,VB            	pi-a
-do             	VBP,VB            	tu-kudrali
-do             	VBP,VB            	tu-a-tumane
-do             	VBP,VB            	pa-iya-iya
-do             	VBP,VB            	tu-gaku
-do             	VBP,VB            	paiya
-do             	VBP,VB            	apiane
-do             	VBP,VB            	tu-a-sinalreme-ne
-do             	VBP,VB            	tu-kua<lre>alre
-do             	VBP,VB            	tu-apui=aku
-do             	VBP,VB            	tu-tai-ane
-do             	VBP,VB            	tu-daane
-do             	VBP,VB            	tu-a-lrepenge=aku
-do             	VBP,VB            	tu-apui
-do             	VBP,VB            	sa-tu-lreveke-ane
-do             	VBP,VB            	tu-lalake=su
-do             	VBP,VB            	tu-lrisi
-do             	VBP,VB            	ta-pi-ane=ini
-do             	VBP,VB            	sa-pia
-do             	VBP,VB            	a-tu-mane-ane
-do             	VBP,VB            	lri-tu-bava
-do             	VBP,VB            	tu-suape
-do             	VBP,VB            	tu-kuaubu
-do             	VBP,VB            	tu-supate
-do             	VBP,VB            	pi-ane
-do             	VBP,VB            	lri-tu-gaku=nay
-do             	VBP,VB            	taka
-create         	VBP,VB            	tasu-naga-nagane=ta
-carry          	VBP,VB            	w-a-il-il-iluku.\
-carry          	VBP,VB            	ta-si-amece-ane
-carry          	VBP,VB            	iluku
-carry          	VBP,VB            	ki
-carry          	VBP,VB            	iluku,
-carry          	VBP,VB            	ililuku=ini
-become         	VBP,VB            	a-ngi-ta<lai>laisi.\
-become         	VBP,VB            	kirimu-nga==,\
-become         	VBP,VB            	ma-tuki
-become         	VBP,VB            	kula
-become         	VBP,VB            	a-sa-sane-nga
-become         	VBP,VB            	ta-u-lrisi-ane,\
-become         	VBP,VB            	a=naw=umaumase
-become         	VBP,VB            	a-umaumase=nga
-become         	VBP,VB            	kilrimu
-become         	VBP,VB            	au-ka-thariri=nga
-arrive         	VBP,VB            	sa-kela=nga
-arrive         	VBP,VB            	sa-kela
-wear           	VBP,JJ,VB         	sia-va-vava.\
-wear           	VBP,JJ,VB         	si-laimay
-wear           	VBP,JJ,VB         	ta-si-lai-may-may-ane,\
-wear           	VBP,JJ,VB         	chuan
-wear           	VBP,JJ,VB         	chuanzhe
-wear           	VBP,JJ,VB         	si-a-va-vava
-wear           	VBP,JJ,VB         	sia-va-vava
-wear           	VBP,JJ,VB         	chuanzhuo
-sleep          	VBP,JJ,VB         	ta-pe-apec-ane
-sleep          	VBP,JJ,VB         	pece
-sleep          	VBP,JJ,VB         	shuijiao
-sleep          	VBP,JJ,VB         	shui
-sleep          	VBP,JJ,VB         	apece=nga
-sleep          	VBP,JJ,VB         	ta-pe-apece-ane=ini.\
-sleep          	VBP,JJ,VB         	sa-apece
-sleep          	VBP,JJ,VB         	apece
-sleep          	VBP,JJ,VB         	sara-ape-apece
-sleep          	VBP,JJ,VB         	w-a-apece
-sleep          	VBP,JJ,VB         	apece.\
-sleep          	VBP,JJ,VB         	lri-apece
-sleep          	VBP,JJ,VB         	lri-apece=nay
-return         	VBP,JJ            	utavanane
-return         	VBP,JJ            	ki-a-saulri-ana
-return         	VBP,JJ            	kaingangai,\
-return         	VBP,JJ            	saulri
-return         	VBP,JJ            	siulri=nga
-live           	VBP,JJ            	wa-udriudripi
-live           	VBP,JJ            	pa-uadripi
-live           	VBP,JJ            	wa-udri-udripi,\
-stress         	VBP               	zhongshi
-sound          	VBP               	mararariau
-recall         	VBP               	sangu-lria-lria-lringaw-ane=ta
-recall         	VBP               	ngu-lria-lringaw-ta
-recall         	VBP               	sangu-lrialringaw-ane
-pass           	VBP               	ngi-lribate
-pass           	VBP               	lu-ngi-lribate=nga
-pass           	VBP               	w-a-lriba-lribate,_
-pass           	VBP               	w-a-lripate
-pass           	VBP               	ta-ngi-lribate-ane
-pass           	VBP               	lriba-lribate
-pass           	VBP               	lribate
-pass           	VBP               	ma-lra-lribate
-pass           	VBP               	kia-matikai
-pass           	VBP               	wa-lriba-lribate
-pass           	VBP               	tapangu
-pass           	VBP               	w-a-lriba-lribate
-pass           	VBP               	lribate,_
-notify         	VBP               	daulu
-need           	VBP               	-mua
-need           	VBP               	madu,_
-need           	VBP               	madu==,\
-need           	VBP               	a-tu-sarir-ane
-need           	VBP               	madu
-need           	VBP               	madu._
-need           	VBP               	maku
-need           	VBP               	yao
-need           	VBP               	madu.
-need           	VBP               	madu==,_
-need           	VBP               	madu,\
-need           	VBP               	madu.\
-hope           	VBP               	ani
-hear           	VBP               	ki<a>lalra
-finish         	VBP               	tulrepenge
-finish         	VBP               	taku-vavea
-finish         	VBP               	tu-a-lrepeng=aku.\
-finish         	VBP               	pianga
-finish         	VBP               	tu-a-lrepenge=^aku.\
-finish         	VBP               	pangimya
-finish         	VBP               	wanbiL2M>
-emphasize      	VBP               	tukuciacingalre=numi
-commiserate    	VBP               	ka-kuru-a
-change         	VBP               	ma-kaela
-buy            	VBP               	ki-langai.\
-buy            	VBP               	langadha
-buy            	VBP               	ki-langadha
-buy            	VBP               	ki-langadh=aku
-approch        	VBP               	adethe=su
-put            	VBN,VBD,VB        	pua
-put            	VBN,VBD,VB        	pu-lebe.\
-put            	VBN,VBD,VB        	pu-belenge
-put            	VBN,VBD,VB        	pu-lringa-lringaw
-put            	VBN,VBD,VB        	pu-a-lringa-lringaw
-put            	VBN,VBD,VB        	pu-adringi
-put            	VBN,VBD,VB        	tara
-put            	VBN,VBD,VB        	pu-cakena=ini
-put            	VBN,VBD,VB        	pu-silu,_
-put            	VBN,VBD,VB        	pua-day-dayli-nga
-put            	VBN,VBD,VB        	pu-cilri
-put            	VBN,VBD,VB        	pu-a
-put            	VBN,VBD,VB        	pu-dria-dringay
-put            	VBN,VBD,VB        	pu-a-pulratuku
-put            	VBN,VBD,VB        	pu-lebe
-put            	VBN,VBD,VB        	pu-lebe-ane
-put            	VBN,VBD,VB        	pa-si
-put            	VBN,VBD,VB        	pu-cavili=nga.\
-put            	VBN,VBD,VB        	pa-sia
-put            	VBN,VBD,VB        	pu-lebe=nga
-put            	VBN,VBD,VB        	sa-pu-kidremedreme-ane
-put            	VBN,VBD,VB        	pa-pu-belelenge
-put            	VBN,VBD,VB        	kia-pu-lria-lrivale
-put            	VBN,VBD,VB        	pa-pu-belenge
-put            	VBN,VBD,VB        	pu-a-lringau-lringau-lringau
-put            	VBN,VBD,VB        	ta-pi-kay-kay-ane
-put            	VBN,VBD,VB        	pi-kay
-put            	VBN,VBD,VB        	pia
-put            	VBN,VBD,VB        	ta-pu-cavi-cavil-ane
-surprised      	VBN,VBD,JJ        	ka-samali.\
-surprised      	VBN,VBD,JJ        	ka-samali-mali
-surprised      	VBN,VBD,JJ        	ka-samali
-surprised      	VBN,VBD,JJ        	ma-samali,\
-surprised      	VBN,VBD,JJ        	samalri
-made           	VBN,VBD           	zuo
-left           	VBN,VBD           	kasane
-discussed      	VBN,VBD           	<L2Mjianghao
-tie            	VBN,VB            	pa-karenge
-tie            	VBN,VB            	pa-raisi,\
-tie            	VBN,VB            	ni-kelenge-ane
-tie            	VBN,VB            	pa-lraugu
-treated        	VBN               	pa-sudaulru
-tired          	VBN               	kualri,_
-tired          	VBN               	sa-kidulru=nga
-spread         	VBN               	pa-ugugu=ini,
-spread         	VBN               	mu-gugu=nga
-spread         	VBN               	ngi-sarade
-sent           	VBN               	<L2Msongdao
-millet         	VBN               	tu-lreveke
-millet         	VBN               	ta-ki-bece-becenge-ane.\
-millet         	VBN               	becenge
-millet         	VBN               	sa-tu-lreveke-ane
-millet         	VBN               	ki-becenge
-millet         	VBN               	tu-a-lrevege
-millet         	VBN               	kala-becenge-ane
-hurt           	VBN               	angeange
-hurt           	VBN               	lri-ka-dula=su
-holy           	VBN               	shensheng
-broken         	VBN               	ka-cuake
-broken         	VBN               	ka-pilutu
-broken         	VBN               	sa-ka-pilutu
-wedding        	VBG               	jiehun
-wedding        	VBG               	karudrarudrang=ta
-wedding        	VBG               	karudrarudrange
-tiring         	VBG               	kualri.\
-sting          	VBG               	ki-lange-langedre
-sting          	VBG               	ki-langedre
-sting          	VBG               	lange-langedre
-sting          	VBG               	sana-dai-daisi
-spinning       	VBG               	paelege.\
-sing           	VBG               	seasenay
-running        	VBG               	lay-laylay.\
-meaning        	VBG               	kakudhane.\
-meaning        	VBG               	kakudhane
-meaning        	VBG               	paluludane
-humming        	VBG               	ponpon
-hug            	VBD,VB            	ibibi
-grasp          	VBD,VB            	dai-daisi
-grasp          	VBD,VB            	kyaraishi
-grasp          	VBD,VB            	karasi
-cook           	VBD,VB            	wa-aga
-chase          	VBD,VB            	ki-a-saladha-ladha
-chase          	VBD,VB            	kur-kuri
-chase          	VBD,VB            	kurisi
-chase          	VBD,VB            	lu-ki-a-saladha-ladha
-chase          	VBD,VB            	kulri-kulri
-hundred        	VBD,JJ            	idai
-frightened     	VBD,JJ            	uguludru
-frightened     	VBD,JJ            	tuluku
-frightened     	VBD,JJ            	ma-kiucu
-frightened     	VBD,JJ            	ngi-tuluku
-boy            	VBD,JJ            	la-lasu
-boy            	VBD,JJ            	la-malalala,_
-boy            	VBD,JJ            	lasu.\
-boy            	VBD,JJ            	nanhaizi
-boy            	VBD,JJ            	lasu
-boy            	VBD,JJ            	sauvalay
-fell           	VBD               	gugu
-count          	VBD               	ki<sai><sai>sange
-count          	VBD               	asi-asipi
-shoulder       	VB,JJR            	tukudru
-shoulder       	VB,JJR            	w-a-dukudru
-yell           	VB                	tautau,/
-yell           	VB                	w-a-tau-tautau.\
-yell           	VB                	w-a-tautau.\
-yell           	VB                	rea-reale
-yell           	VB                	dau-dau-dau
-yell           	VB                	tautautau
-whistle        	VB                	puatupipi
-waver          	VB                	ngi-a-vele-vele
-watch          	VB                	a-drangalru-ane
-watch          	VB                	sia-va-vava
-watch          	VB                	sia-<va>-vava
-watch          	VB                	dre-drela
-wade           	VB                	talubalre
-sweat          	VB                	lri-kaugipi=su
-sweat          	VB                	igipi==-
-sway           	VB                	i-rarenge=su
-sway           	VB                	yara==-rarui
-support        	VB                	drakale
-stand          	VB                	ki-ta-ngi-dra<ka>kale-ane
-stand          	VB                	cegecege
-show           	VB                	pathingale
-shake          	VB                	ngi-velevele
-shake          	VB                	sa-vele-velevele
-shake          	VB                	vele-velevele
-shake          	VB                	dingi-dingi
-shake          	VB                	lrungulrungu
-shake          	VB                	lungu-lungulungulu
-search         	VB                	silape
-search         	VB                	sila-silape
-search         	VB                	takusilasilapu
-run            	VB                	lay-lay-lay
-run            	VB                	laylay
-run            	VB                	lay-laylay
-run            	VB                	ubere
-river          	VB                	mu-drakerane
-river          	VB                	kavay
-river          	VB                	<L2MhechuanL2M>,\
-river          	VB                	mudrakerane
-river          	VB                	drake^rale,\
-river          	VB                	drakerale
-river          	VB                	drakerane
-river          	VB                	mu-drakerale
-river          	VB                	mu-valru
-river          	VB                	valru
-river          	VB                	<L2MhechuanL2M>,_
-rest           	VB                	i<sadra>sadra
-replace        	VB                	surakele
-raise          	VB                	ngi-drakale
-raise          	VB                	lapu
-raise          	VB                	drakale
-raise          	VB                	lau-lapu
-pull           	VB                	wa-bili-bilibili
-pull           	VB                	pa-ngu-druru-druru
-pull           	VB                	maka-pili-pili=nga
-pull           	VB                	w-a-pili-pilipili
-pull           	VB                	labu-labutu
-protect        	VB                	kia-libake
-protect        	VB                	baohu
-obey           	VB                	tuamadu
-name           	VB                	la-nagane=ta
-name           	VB                	nagana=lini
-name           	VB                	su-a-naga-nagane
-name           	VB                	nagane=ini,\
-name           	VB                	su-nagane=ta
-name           	VB                	lu-su-nagane
-name           	VB                	nagane=ta
-name           	VB                	su-nagane=su,_
-name           	VB                	nagane=nay
-name           	VB                	si-nagane
-name           	VB                	nagane
-name           	VB                	su-nagane-a
-name           	VB                	su-nagane-ane
-name           	VB                	su-naga-nagane
-name           	VB                	nagane=
-name           	VB                	nagana
-name           	VB                	tasu-naga-nagane=ta
-name           	VB                	su-nagane
-name           	VB                	ta-su-naga-nagane=ta
-name           	VB                	la-nagane
-name           	VB                	nagana=ta
-name           	VB                	nagane-ane
-name           	VB                	nagane=su
-name           	VB                	mu-su-nagane
-name           	VB                	nagane=ini
-mouse          	VB                	tila
-mistake        	VB                	amama-ma
-marry          	VB                	ta-karudrarudrange-ane=ta
-marry          	VB                	karu<draru>drange
-marry          	VB                	yapi-karudra=nga
-marry          	VB                	karudrange
-marry          	VB                	lu-lri-karudrange
-marry          	VB                	rudra-rudrange-ane
-marry          	VB                	ma-rudra-rudrange,_
-lose           	VB                	maka-ututhu
-keep           	VB                	lapulapu=ini
-hunt           	VB                	tara-alu-alupu
-hunt           	VB                	pa-alu-alupu.\
-hunt           	VB                	ta-alu-alupu-ane
-hunt           	VB                	w-a-alu-alupu.\
-hunt           	VB                	tara-alupu
-hunt           	VB                	pana=nga.\
-hunt           	VB                	w-a-alupu
-hunt           	VB                	a-alupu-ane.\
-hunt           	VB                	ta-alu^pu-ane.\
-hold           	VB                	ipipi
-hold           	VB                	taku-ucenge
-hold           	VB                	kebere
-grandmother    	VB                	la-kayngu
-grandmother    	VB                	kayngu
-give           	VB                	ba-bai=ini
-give           	VB                	baai=ini
-give           	VB                	bai
-give           	VB                	a-baai-ane
-give           	VB                	w-a-bai,\
-give           	VB                	bai,\
-give           	VB                	gei
-give           	VB                	a-baai-ane=li
-give           	VB                	w-a-bai
-give           	VB                	ni
-give           	VB                	bai-ane
-give           	VB                	baai
-give           	VB                	ki-baai=lini
-forget         	VB                	marimuriuru
-follow         	VB                	tupapalra
-follow         	VB                	lapatupapalraw
-follow         	VB                	tupala-pala
-follow         	VB                	tu-<pa>-palra
-follow         	VB                	pa-tuapapala
-follow         	VB                	tu<a><pa>palra
-follow         	VB                	tu<pa>palra
-follow         	VB                	pa-tu-pa-palra
-follow         	VB                	tu-pa-pa-palra
-follow         	VB                	patua-pa-pala
-follow         	VB                	tupalra
-follow         	VB                	tu-palra
-follow         	VB                	tapiapiane
-follow         	VB                	kabibibilrili
-follow         	VB                	tu-papara
-flap           	VB                	visi-visi
-find           	VB                	silape,\
-find           	VB                	sila-silape
-find           	VB                	maka-kidringay
-fill           	VB                	a-pa-sute-ane
-fill           	VB                	maka-surakele=nga
-fill           	VB                	suragele
-fight          	VB                	ki-ka-ruburu-buru
-escort         	VB                	w-a-sateatedre.\
-escort         	VB                	sateatedre
-enjoy          	VB                	sia-vava
-enjoy          	VB                	sia-<va>vava
-engage         	VB                	tu-a-siasilange-ane,_
-engage         	VB                	tu-a-siasi^lange-ane.\
-engage         	VB                	tu-a-siasi^lange-ane,\
-engage         	VB                	jiaowang
-engage         	VB                	kitu<lreve>lrevege,_
-engage         	VB                	tu-a-siasilange-ane
-dominate       	VB                	kelrete-ane
-dominate       	VB                	w-a-kelre-kelrete,\
-dominate       	VB                	a-kelrete-ane
-dominate       	VB                	kelre-kelrete.\
-dance          	VB                	maka-dralray,_
-dance          	VB                	dralray
-clean          	VB                	lripesele
-church         	VB                	u-kiukai
-church         	VB                	mu-kiukai
-church         	VB                	kiukai
-ceremony       	VB                	tu-a-lrisi-lrisi
-ceremony       	VB                	tu-lrisi
-ceremony       	VB                	pu-cavili=nga.\
-ceremony       	VB                	ta-pu-cavi-cavil-ane
-catch          	VB                	alra=nga
-catch          	VB                	lri-pualrasu
-catch          	VB                	sana-garauraucu
-bump           	VB                	ngu-cungu-cungu
-bump           	VB                	ma-pa-pungupungu
-bump           	VB                	ngu-pungupungu
-bump           	VB                	ma-dra-dresenge=ini
-bump           	VB                	mu-a-pungupungu
-bump           	VB                	ma-dradresengel=ini
-bump           	VB                	ucucusu
-bump           	VB                	ma-dre-dresenge
-bring          	VB                	iluku,_
-bring          	VB                	mualru=nay
-bring          	VB                	iluku=li
-bring          	VB                	iluku=ini
-bring          	VB                	lri-tara-iluku=su
-bring          	VB                	mualru
-bring          	VB                	sa-iluku-ane
-bring          	VB                	iluku,\
-bring          	VB                	il-il-iluku.\
-bring          	VB                	ma-il-iluku
-bring          	VB                	il-iluku
-bring          	VB                	ma-sa-ngi-iluku
-bring          	VB                	ma-iluku
-bring          	VB                	iluku
-bring          	VB                	iluku-lini
-belong         	VB                	sua
-be             	VB                	kamani
-be             	VB                	ka-amani
-be             	VB                	ka-amani=nga
-be             	VB                	a-ma-lri=nga
-be             	VB                	shi
-be             	VB                	maru-amani=nga
-be             	VB                	amani
-attack         	VB                	wa-urikai
-attack         	VB                	maka-thau-thauru._
-ask            	VB                	cucunu
-ask            	VB                	ki-vagana
-ask            	VB                	ki-a-vavavaga
-ask            	VB                	tara-kia-vaga
-highest        	JJS               	zuigao
-harvest        	JJS               	kala-lrisi-^ane.\
-harvest        	JJS               	tangi-elribalri-balri-tane
-harvest        	JJS               	lrisi-si-si-ane,\
-touch          	JJ,VB             	ecenge
-touch          	JJ,VB             	ece-ecenge
-touch          	JJ,VB             	lri-maka-ecenge
-touch          	JJ,VB             	ecenge=su
-touch          	JJ,VB             	sa-ecenge
-touch          	JJ,VB             	w-a-e<ce>cenge
-touch          	JJ,VB             	kuini
-touch          	JJ,VB             	tanaisi
-touch          	JJ,VB             	w-a-ece<ce><ce>nge
-touch          	JJ,VB             	wa-ce-cecenge
-touch          	JJ,VB             	sua-sua-sulape
-open           	JJ,VB             	pangu-nganga
-open           	JJ,VB             	ucaebe
-open           	JJ,VB             	ni-ta-ucaebe-ane
-light          	JJ,VB             	dringki
-agree          	JJ,VB             	ngupangalre
-accept         	JJ,VB             	ma-palrailraingi,_
-accept         	JJ,VB             	ma-palralraingi=nga
-young          	JJ                	i-a-cenge-cenge
-wrong          	JJ                	ngi-akalrimadu-madu
-wrong          	JJ                	ngi-akalrimadu-madu-madu
-wrong          	JJ                	ngi-akalrimadu-ma==du
-wonderful      	JJ                	mati-a-dadalame
-weak           	JJ                	ta-turamuru-ane
-tree           	JJ                	ta-(a)ngatu-ane
-tree           	JJ                	angatu
-tree           	JJ                	la-angatu
-tree           	JJ                	angatu.\
-tree           	JJ                	angtu
-tree           	JJ                	angatu,\
-traditional    	JJ                	chuantong
-top            	JJ                	mu-belenge,\
-thick          	JJ                	ma-ru-rudrumu
-terrible       	JJ                	mati-kiu-kiucu
-tall           	JJ                	a-belenge
-surprise       	JJ                	ngi-tuluku
-surprise       	JJ                	ka-samali
-surprise       	JJ                	pa-ngi-tuluku
-strong         	JJ                	ma-rakace
-strong         	JJ                	ka-garange=su.\
-strange        	JJ                	asiamia
-sour           	JJ                	ma-lriw
-soft           	JJ                	karalruingi,_
-smart          	JJ                	ka-lrikilri
-small          	JJ                	kua-tiki,\
-small          	JJ                	tiki-ane
-small          	JJ                	pangu-tiki
-small          	JJ                	ngutiki
-small          	JJ                	tiki-ane.\
-slow           	JJ                	ngiabalai
-slow           	JJ                	ngiabalay
-sissy          	JJ                	palase.\
-sissy          	JJ                	i-avi-ki^cane=su
-sissy          	JJ                	viki^cane
-sissy          	JJ                	avi-kicane,\
-serious        	JJ                	pakialringaw
-serious        	JJ                	ngi-caeme
-separate       	JJ                	mau-vaga-vagay
-separate       	JJ                	maka-mau-vaga-vagai=nga
-separate       	JJ                	lupau-drusa-ane
-separate       	JJ                	a-pavala
-rich           	JJ                	ma-esa-esaesya=su
-rice           	JJ                	a-aga-ane.\
-rice           	JJ                	aga
-real           	JJ                	ka-silu-ane
-real           	JJ                	ka-palung-ane
-real           	JJ                	ka-vai-ane
-real           	JJ                	ka-ni-caeba-ane.\
-real           	JJ                	ka-dilrungu-ane
-real           	JJ                	kuna-tenga-tengane=nga
-real           	JJ                	ka-mea-meael-ane
-quiet          	JJ                	icelrebe
-pure           	JJ                	ma-^bula,\
-pure           	JJ                	<L2Mchunjie
-pure           	JJ                	^shengjiede
-pure           	JJ                	<L2M^shengjie
-public         	JJ                	<L2Mgongkai
-presbyter      	JJ                	kiacapili
-poor           	JJ                	ma-tiakolo
-pear           	JJ                	nasi
-outside        	JJ                	mu-latadre
-outside        	JJ                	yalatadre
-outside        	JJ                	mu-latradre
-other          	JJ                	kutumane
-other          	JJ                	dru^ma==ne.\
-other          	JJ                	la-drumane
-only           	JJ                	sa==ne
-only           	JJ                	sanaka
-only           	JJ                	laka^sane,\
-only           	JJ                	sana
-only           	JJ                	<L2Mcai
-only           	JJ                	lakasane.\
-only           	JJ                	luka
-old            	JJ                	sa-ka-sidrumane
-old            	JJ                	lao
-noisy          	JJ                	ka-rariyau
-noble          	JJ                	guizu
-noble          	JJ                	<XtalialalaiX>
-noble          	JJ                	talialalay
-noble          	JJ                	talialalay,\
-noble          	JJ                	talialalay,_
-noble          	JJ                	talialalay-ane==,_
-next           	JJ                	kaka-ya.\
-new            	JJ                	ma-belana
-mysterious     	JJ                	mati-a-sa<mai>mali
-much           	JJ                	pingi-tha-thatha
-much           	JJ                	pingkalra
-modern         	JJ                	a-sa-sane-nga
-many           	JJ                	tapangale
-many           	JJ                	ma-kalra
-many           	JJ                	ka-thathatha
-many           	JJ                	ngu-ka-langaku
-male           	JJ                	nanfang
-male           	JJ                	sauvalay==,_
-male           	JJ                	sawvalay._
-male           	JJ                	sawvalay.\
-male           	JJ                	la-mala-la.\
-male           	JJ                	la-malala,\
-male           	JJ                	sauvalay.\
-male           	JJ                	tali-sauvalay-ane
-male           	JJ                	sauvalay
-male           	JJ                	sawvalay
-male           	JJ                	la-mala-la,\
-male           	JJ                	la-malalala
-male           	JJ                	sawvalay==-
-male           	JJ                	sawvalay,\
-male           	JJ                	la-malala
-male           	JJ                	nama-la-lala,_
-male           	JJ                	taka-sawvalay-ane=su,\
-male           	JJ                	sawvalay=nga
-male           	JJ                	lasu.\
-male           	JJ                	sauvakai
-male           	JJ                	malalala
-male           	JJ                	sauvalay,\
-loud           	JJ                	ku-adraw
-loud           	JJ                	kua-adraw-ane
-loud           	JJ                	kua-dra-adraw
-long           	JJ                	mu-a-tail-ane
-long           	JJ                	ka-elrenge
-long           	JJ                	ma-elrenge
-lazurite       	JJ                	pu-silu,_
-last           	JJ                	bili-ane=nga
-incapable      	JJ                	ubangalre
-important      	JJ                	ma-kuciacingalre
-important      	JJ                	ma-ku-cia-^ciangalre=nga
-important      	JJ                	ma-kucingalre
-important      	JJ                	zhongyao
-important      	JJ                	ma-ku^cingalre
-important      	JJ                	ka-kucingalre
-important      	JJ                	tu-a-kucingalre
-important      	JJ                	tu-kucingale
-important      	JJ                	ma-ku-cia-cingalre=nga,\
-important      	JJ                	ma-ku<cia>ci^ngale.\
-important      	JJ                	ma-kucingalre.\
-important      	JJ                	ani-ka-kucingalre
-important      	JJ                	ma-ku<cia>cingalre=nga
-important      	JJ                	ma-ku<cia>cingalre=nga,\
-important      	JJ                	ma-kucingalre,\
-important      	JJ                	ma-kucingale
-human          	JJ                	ki
-human          	JJ                	a=naw=umaumase
-human          	JJ                	ta-ka-umaumas-ane=ini
-human          	JJ                	a-umaumase=nga
-human          	JJ                	umaumase
-human          	JJ                	ngi-umaumase
-human          	JJ                	taka-umause-ane
-horn           	JJ                	laungu
-horn           	JJ                	laungu=ini
-horn           	JJ                	lawngu
-horn           	JJ                	ki
-horn           	JJ                	salaungane
-horn           	JJ                	sa-laungu-ane
-horn           	JJ                	sa-lawngu-ane
-horn           	JJ                	launge
-hometown       	JJ                	balriu
-headwear       	JJ                	taitharare=ini,_
-headwear       	JJ                	sagniragerane,_
-head           	JJ                	aulru=ini
-head           	JJ                	aulruini
-hard           	JJ                	molamola
-hard           	JJ                	kisamula
-happy          	JJ                	kia<ra>rakay
-happy          	JJ                	mati-lrulrupi
-happy          	JJ                	ki<ra>rakay
-happy          	JJ                	ki-raka-rakai
-happy          	JJ                	ki-ragai-nga
-happy          	JJ                	ki<ra><ra>ragay=nga
-happy          	JJ                	ki<ra>raragay
-happy          	JJ                	ki-raga-ragai-nga
-happy          	JJ                	kiragay
-happy          	JJ                	raga-ragai
-happy          	JJ                	ki-ra-ra-ragay.\
-happy          	JJ                	ki-ragai
-happy          	JJ                	ki<ra>ragay=nga
-gorgeous       	JJ                	mu-lrapace
-goose          	JJ                	lakuka
-goodbye        	JJ                	kipusau
-goodbye        	JJ                	ai
-goodbye        	JJ                	caicini
-goodbye        	JJ                	ai==
-good           	JJ                	mu-a-dringa-dringay
-good           	JJ                	a-tu-sarir-ane
-good           	JJ                	ma-thariri
-good           	JJ                	ka-thariri
-good           	JJ                	mua-dringa-dringay
-good           	JJ                	sarirane
-good           	JJ                	ka-tathai-thariri
-girl           	JJ                	apapai
-girl           	JJ                	ababay
-girl           	JJ                	alisu,\
-girl           	JJ                	alisu
-gentle         	JJ                	ta-ka-sulrap-ane=su
-gentle         	JJ                	ma=-sulraulrapele,_
-gentle         	JJ                	ma-sulrapele
-first          	JJ                	ki-a-saulri-ana
-first          	JJ                	pa-asuala-la-nga
-first          	JJ                	pararubu-ana
-first          	JJ                	palribulu-ana
-first          	JJ                	siludu-ana
-first          	JJ                	ka-tuase-ana
-female         	JJ                	ababay,_
-female         	JJ                	ababay,\
-female         	JJ                	la-maliali
-female         	JJ                	la-maliali,\
-female         	JJ                	la-ababay
-female         	JJ                	ababay-ane=su,_
-female         	JJ                	ababay
-female         	JJ                	a<ba><ba>babay
-female         	JJ                	a^babay.\
-female         	JJ                	la-abaiay
-female         	JJ                	la-maliali.\
-female         	JJ                	ababay.\
-female         	JJ                	ababay=su
-female         	JJ                	kuini
-female         	JJ                	ababay-ane.\
-female         	JJ                	ababai,\
-female         	JJ                	ki
-enough         	JJ                	ma-kakelrete
-easy           	JJ                	ka-matuaduay.\
-early          	JJ                	sara-ape-apece
-duck           	JJ                	haimai
-dry            	JJ                	mu-ka-mea-meale-ane
-dry            	JJ                	mu-kameameale
-dry            	JJ                	ka-mea-meael-ane
-dry            	JJ                	mu-ka-mea-meale
-different      	JJ                	ma-kaela-ela
-different      	JJ                	ta-makaela-ane=ta,\
-different      	JJ                	lamakaela
-different      	JJ                	ma-kaela.\
-different      	JJ                	ma-kaelaela
-different      	JJ                	ma-elane
-different      	JJ                	ma-kaela
-different      	JJ                	maela
-different      	JJ                	ka-ela
-decent         	JJ                	mu-a-lecege.\
-decent         	JJ                	mu-a-lecege
-decent         	JJ                	mu-a-lecege,_
-compete        	JJ                	maka-<lrua>-lrumale
-cold           	JJ                	mararengece
-civilian       	JJ                	lakaukaulu
-civilian       	JJ                	lakaukaulu==
-civilian       	JJ                	lakau^kaulu,\
-civilian       	JJ                	pingmin
-civilian       	JJ                	lakaukaulu-ane.\
-child          	JJ                	vavalake,/
-child          	JJ                	la=vavalake.\
-child          	JJ                	lalake=ini
-child          	JJ                	la-vavalake,\
-child          	JJ                	la-lalake=ini
-child          	JJ                	vavalake
-child          	JJ                	vavalake.\
-child          	JJ                	la-vavalake=nay
-child          	JJ                	la-vavalake
-child          	JJ                	vavalake=na
-child          	JJ                	la-vavalake.\
-child          	JJ                	vavalake,_
-child          	JJ                	vavaleke
-child          	JJ                	vavalake,\
-child          	JJ                	tu-lalake=su
-child          	JJ                	la-vavalake-ane
-careless       	JJ                	pa-tuatuma
-capable        	JJ                	w-a-dulru
-capable        	JJ                	itulru
-capable        	JJ                	ma-kadulru=su,\
-capable        	JJ                	rakaca-ane
-capable        	JJ                	wa-dulru
-busy           	JJ                	w-a-the-the-thengete
-big            	JJ                	ma-adrau-drau
-big            	JJ                	ngu-adrau
-big            	JJ                	ma-adrau
-big            	JJ                	tu-adrau
-big            	JJ                	TU-adrau
-big            	JJ                	ma-drau.\
-big            	JJ                	kadraw-ane
-bee            	JJ                	tumu
-bee            	JJ                	la-tumu
-bee            	JJ                	sigu
-beautiful      	JJ                	ka-thariri=nga
-beautiful      	JJ                	au-ka-thariri=nga
-beautiful      	JJ                	ma-thariri
-bamboo         	JJ                	balebale
-bamboo         	JJ                	palebale
-bad            	JJ                	ta-u-lisi-si-ane
-bad            	JJ                	maka-li-lisi.\
-bad            	JJ                	ngi-a-lisi-ane
-bad            	JJ                	tu-a-li-li-lisi.\
-bad            	JJ                	lisi
-bad            	JJ                	ma-lisi
-bad            	JJ                	ma-li<li>si,_
-bad            	JJ                	ngi-lisianane
-bad            	JJ                	ngi-lisi-ane.\
-bad            	JJ                	ta-u-lrisi-ane,\
-bad            	JJ                	ma-lisi,\
-bad            	JJ                	ki-lisi-ane
-bad            	JJ                	ngia-lisi-ane.\
-bad            	JJ                	ta-u-lisi-ane
-angry          	JJ                	lingisi.\
-angry          	JJ                	pua-ka-lisi-lisi.\
-angry          	JJ                	ka-lisi
-able           	JJ                	pikakua
-Rukai          	JJ                	Ngudradrekai
-Rukai          	JJ                	Ngudradrekay,_
-Rukai          	JJ                	<L2MRukaizu
-Rukai          	JJ                	Ngudradrekai,\
-Rukai          	JJ                	Ngudradrekay.\
-Rukai          	JJ                	ngudradrekai
-Rukai          	JJ                	ngudrekadrekay
-Rukai          	JJ                	Rukai
-Rukai          	JJ                	ngudradrekay
-Rukai          	JJ                	ngudradrekai,\
-Rukai          	JJ                	Ngudradrekay-ane.\
-Rukai          	JJ                	Ngudradrekay-ane,\
-Rukai          	JJ                	Ngudradrekay,\
-Rukai          	JJ                	Ngudradrekay
+Verb_from_#e      	PoS_from_#e       	Rukai_gloss                 	Eng_gloss
+
+Rukai             	JJ                	<L2MRukaizu                 	Rukai
+Rukai             	JJ                	Ngudradrekai                	Rukai
+Rukai             	JJ                	Ngudradrekai,\              	Rukai
+Rukai             	JJ                	Ngudradrekay                	Rukai
+Rukai             	JJ                	Ngudradrekay,\              	Rukai
+Rukai             	JJ                	Ngudradrekay,_              	Rukai
+Rukai             	JJ                	Ngudradrekay-ane,\          	Rukai-NMLZ
+Rukai             	JJ                	Ngudradrekay-ane.\          	Rukai-NMLZ
+Rukai             	JJ                	Ngudradrekay.\              	Rukai
+Rukai             	JJ                	Rukai                       	Rukai
+Rukai             	JJ                	ngudradrekai                	Rukai
+Rukai             	JJ                	ngudradrekai,\              	Rukai
+Rukai             	JJ                	ngudradrekay                	Rukai
+Rukai             	JJ                	ngudrekadrekay              	Rukai
+STAT              	None              	a-belenge                   	STAT-tall
+STAT              	None              	ka-tuase                    	STAT-leave
+able              	JJ                	pikakua                     	able
+accept            	JJ,VB             	ma-palrailraingi,_          	REC-accept
+accept            	JJ,VB             	ma-palralraingi=nga         	REC-accept=PFV
+agree             	JJ,VB             	ngupangalre                 	agree
+angry             	JJ                	ka-lisi                     	STAT.IRR-angry
+angry             	JJ                	lingisi.\                   	angry
+angry             	JJ                	pua-ka-lisi-lisi.\          	toward-STAT.IRR-RED-angry
+approch           	VBP               	adethe=su                   	approch=2S.BN
+arrive            	VB,VBP            	sa-kela                     	when-arrive
+arrive            	VB,VBP            	sa-kela=nga                 	when-arrive=PFV
+ask               	VB                	cucunu                      	ask
+ask               	VB                	ki-a-vavavaga               	PASS-RLS-ask
+ask               	VB                	ki-vagana                   	PASS-ask
+ask               	VB                	tara-kia-vaga               	NEC.MOD-PASS-ask
+attack            	VB                	maka-thau-thauru._          	REC-RED-attack
+attack            	VB                	wa-urikai                   	REAL-attack
+bad               	JJ                	ki-lisi-ane                 	KI-bad-NMZ
+bad               	JJ                	lisi                        	bad
+bad               	JJ                	ma-li<li>si,_               	STAT.RLS-<RED>bad
+bad               	JJ                	ma-lisi                     	STAT.RLS-bad
+bad               	JJ                	ma-lisi,\                   	STAT.RLS-bad
+bad               	JJ                	maka-li-lisi.\              	REC-RED-bad
+bad               	JJ                	ngi-a-lisi-ane              	NGI-A-bad-NMLZ
+bad               	JJ                	ngi-lisi-ane.\              	manner-bad-NMLZ
+bad               	JJ                	ngi-lisianane               	REFL-bad
+bad               	JJ                	ngia-lisi-ane.\             	more-bad-NMLZ
+bad               	JJ                	ta-u-lisi-ane               	LOC-go-bad-NMLZ
+bad               	JJ                	ta-u-lisi-si-ane            	LOC-go-bad-RED-NMLZ
+bad               	JJ                	ta-u-lrisi-ane,\            	NMLZ-become-bad-NMLZ
+bad               	JJ                	ta-u-lrisi-ane,\            	NMLZ-in-bad-NMLZ
+bad               	JJ                	tu-a-li-li-lisi.\           	TU-REAL-RED-RED-bad
+bamboo            	JJ                	balebale                    	bamboo
+bamboo            	JJ                	palebale                    	bamboo
+be                	VB                	a-ma-lri=nga                	why-STAT.RLS-be=PFV
+be                	VB                	amani                       	be
+be                	VB                	ka-amani                    	STAT.IRR-be
+be                	VB                	ka-amani=nga                	STAT.IRR-be=PFV
+be                	VB                	kamani                      	be
+be                	VB                	kamani                      	STAT.IRR-be
+be                	VB                	maru-amani=nga              	MARU-be=PFV
+be                	VB                	shi                         	be
+beautiful         	JJ                	au-ka-thariri=nga           	become-STAT.IRR-beautiful=PFV
+beautiful         	JJ                	ka-thariri=nga              	STAT.IRR-beautiful=PFV
+beautiful         	JJ                	ma-thariri                  	STAT.RLS-beautiful
+become            	VB,VBP            	a-ngi-ta<lai>laisi.\        	become-REFL-<RED>swing
+become            	VB,VBP            	a-sa-sane-nga               	become-RED-modern=PFV
+become            	VB,VBP            	a-umaumase=nga              	become-human=PFV
+become            	VB,VBP            	a=naw=umaumase              	become=1S.BN=human
+become            	VB,VBP            	au-ka-thariri=nga           	become-STAT.IRR-beautiful=PFV
+become            	VB,VBP            	kilrimu                     	become
+become            	VB,VBP            	kirimu-nga==,\              	become-PFV
+become            	VB,VBP            	kula                        	become
+become            	VB,VBP            	ma-tuki                     	MA-become
+become            	VB,VBP            	ta-u-lrisi-ane,\            	NMLZ-become-bad-NMLZ
+bee               	JJ                	la-tumu                     	P-bee
+bee               	JJ                	sigu                        	bee
+bee               	JJ                	tumu                        	bee
+belong            	VB                	sua                         	belong
+big               	JJ                	TU-adrau                    	TU-big
+big               	JJ                	kadraw-ane                  	big-NMLZ
+big               	JJ                	ma-adrau                    	STAT.RLS-big
+big               	JJ                	ma-adrau-drau               	STAT.RLS-big-RED
+big               	JJ                	ma-drau.\                   	STAT.RLS-big.
+big               	JJ                	ngu-adrau                   	from-big
+big               	JJ                	tu-adrau                    	TU-big
+boy               	JJ,VBD            	la-lasu                     	P-boy
+boy               	JJ,VBD            	la-malalala,_               	PL-boy
+boy               	JJ,VBD            	lasu                        	boy
+boy               	JJ,VBD            	lasu.\                      	boy
+boy               	JJ,VBD            	nanhaizi                    	boy
+boy               	JJ,VBD            	sauvalay                    	boy
+bring             	VB                	il-il-iluku.\               	RED-RED-bring
+bring             	VB                	il-iluku                    	RED-bring
+bring             	VB                	iluku                       	bring
+bring             	VB                	iluku,\                     	bring
+bring             	VB                	iluku,_                     	bring
+bring             	VB                	iluku-lini                  	bring-3P.BG
+bring             	VB                	iluku=ini                   	bring=3S.BG
+bring             	VB                	iluku=li                    	bring=1S.BG
+bring             	VB                	lri-tara-iluku=su           	FUT-NEC.MOD-bring=2S.BN
+bring             	VB                	ma-il-iluku                 	MA-RED-bring
+bring             	VB                	ma-iluku                    	STAT.RLS-bring
+bring             	VB                	ma-sa-ngi-iluku             	MA-when-REFL-bring
+bring             	VB                	mualru                      	bring
+bring             	VB                	mualru=nay                  	bring=1P(EX).BN
+bring             	VB                	sa-iluku-ane                	when-bring-NMLZ
+broken            	VBN               	ka-cuake                    	STAT.IRR-broken
+broken            	VBN               	ka-pilutu                   	STAT.IRR-broken
+broken            	VBN               	sa-ka-pilutu                	when-STAT.IRR-broken
+bump              	VB                	ma-dra-dresenge=ini         	MA-Ca-bump=3SG.GEN
+bump              	VB                	ma-dradresengel=ini         	MA-bump-3PL.GEN
+bump              	VB                	ma-dre-dresenge             	MA-RED-bump
+bump              	VB                	ma-pa-pungupungu            	RECP-CAUS-bump
+bump              	VB                	mu-a-pungupungu             	go-RLS-bump
+bump              	VB                	ngu-cungu-cungu             	go-RED-bump
+bump              	VB                	ngu-pungupungu              	manner-bump
+bump              	VB                	ucucusu                     	bump
+busy              	JJ                	w-a-the-the-thengete        	ACT-RLS-RED-RED-busy
+buy               	VBP               	ki-langadh=aku              	PASS-buy=1SG.NOM
+buy               	VBP               	ki-langadha                 	PASS-buy
+buy               	VBP               	ki-langai.\                 	PASS-buy
+buy               	VBP               	langadha                    	buy
+capable           	JJ                	itulru                      	capable
+capable           	JJ                	ma-kadulru=su,\             	STAT.RLS-capable=2S.BN
+capable           	JJ                	rakaca-ane                  	capable-NMLZ
+capable           	JJ                	w-a-dulru                   	ACT-RLS-capable
+capable           	JJ                	wa-dulru                    	RLS-capable
+careless          	JJ                	pa-tuatuma                  	CAUS-careless
+carry             	VB,VBP            	ililuku=ini                 	carry=3PL.GEN
+carry             	VB,VBP            	iluku                       	carry
+carry             	VB,VBP            	iluku,                      	carry
+carry             	VB,VBP            	ki                          	carry
+carry             	VB,VBP            	ta-si-amece-ane             	NMLZ-carry-things.being.shouldered-NMLZ
+carry             	VB,VBP            	w-a-il-il-iluku.\           	ACT-RLS-RED-RED-carry
+catch             	VB                	alra=nga                    	catch=PFV
+catch             	VB                	lri-pualrasu                	FUT-catch
+catch             	VB                	sana-garauraucu             	want-catch
+ceremony          	VB                	pu-cavili=nga.\             	put-ceremony=PFV
+ceremony          	VB                	ta-pu-cavi-cavil-ane        	NMLZ-put-RED-ceremony-NMLZ
+ceremony          	VB                	tu-a-lrisi-lrisi            	TU-RLS-RED-ceremony
+ceremony          	VB                	tu-lrisi                    	do-ceremony
+change            	VBP               	ma-kaela                    	STAT.RLS-change
+chase             	VB,VBD            	ki-a-saladha-ladha          	PASS-RLS-chase-RED
+chase             	VB,VBD            	kulri-kulri                 	RED-chase
+chase             	VB,VBD            	kur-kuri                    	RED-chase
+chase             	VB,VBD            	kurisi                      	chase
+chase             	VB,VBD            	lu-ki-a-saladha-ladha       	when-PASS-RLS-chase-RED
+child             	JJ                	la-lalake=ini               	PL-child=3SG.GEN
+child             	JJ                	la-vavalake                 	PL-child
+child             	JJ                	la-vavalake                 	P-child
+child             	JJ                	la-vavalake,\               	PL-child
+child             	JJ                	la-vavalake-ane             	P-child-NMLZ
+child             	JJ                	la-vavalake.\               	PL-child
+child             	JJ                	la-vavalake=nay             	P-child=1P(EX).BN
+child             	JJ                	la=vavalake.\               	PL-child
+child             	JJ                	lalake=ini                  	child=3SG.GEN
+child             	JJ                	tu-lalake=su                	do-child=2S.BN
+child             	JJ                	vavalake                    	child
+child             	JJ                	vavalake,/                  	child
+child             	JJ                	vavalake,\                  	child
+child             	JJ                	vavalake,_                  	child
+child             	JJ                	vavalake.\                  	child
+child             	JJ                	vavalake=na                 	child=3S.BG
+child             	JJ                	vavaleke                    	child
+church            	VB                	kiukai                      	church
+church            	VB                	mu-kiukai                   	go-church
+church            	VB                	u-kiukai                    	go-church
+civilian          	JJ                	lakau^kaulu,\               	civilian
+civilian          	JJ                	lakaukaulu                  	civilian
+civilian          	JJ                	lakaukaulu-ane.\            	civilian-NMLZ
+civilian          	JJ                	lakaukaulu==                	civilian
+civilian          	JJ                	pingmin                     	civilian
+clean             	VB                	lripesele                   	clean
+cold              	JJ                	mararengece                 	cold
+come              	VBN,VB,VBP,VBD    	a-ki-kela-ane               	NMLZ-KI-come-NMLZ
+come              	VBN,VB,VBP,VBD    	buala==                     	come
+come              	VBN,VB,VBP,VBD    	i-kela                      	FUT-come
+come              	VBN,VB,VBP,VBD    	i-kela                      	I-come
+come              	VBN,VB,VBP,VBD    	ikela                       	come
+come              	VBN,VB,VBP,VBD    	kainganai                   	come
+come              	VBN,VB,VBP,VBD    	kainganay==                 	come
+come              	VBN,VB,VBP,VBD    	kay<nga><nga>nganay         	<RED><RED>come
+come              	VBN,VB,VBP,VBD    	kay<ngana>nganay            	<RED>come
+come              	VBN,VB,VBP,VBD    	kayngalay                   	come
+come              	VBN,VB,VBP,VBD    	kayngana-nganay             	come-RED
+come              	VBN,VB,VBP,VBD    	kaynganay                   	come
+come              	VBN,VB,VBP,VBD    	kela                        	come
+come              	VBN,VB,VBP,VBD    	kela-ane                    	come-NMLZ
+come              	VBN,VB,VBP,VBD    	kela-kela-nga               	RED-come-PFV
+come              	VBN,VB,VBP,VBD    	kela-kela=numi?\            	RED-come=2P.BN
+come              	VBN,VB,VBP,VBD    	kela=nga                    	come=PFV
+come              	VBN,VB,VBP,VBD    	kela=numi                   	come=2P.BN
+come              	VBN,VB,VBP,VBD    	sa-kela                     	when-come
+come              	VBN,VB,VBP,VBD    	ta-kela-ane=lini            	LOC-come-NMLZ=3P.BG
+come              	VBN,VB,VBP,VBD    	w-a-kela                    	ACT-RLS-come
+come              	VBN,VB,VBP,VBD    	w-a-kela-kela               	ACT-RLS-RED-come
+come              	VBN,VB,VBP,VBD    	wa-kela                     	RLS-come
+come              	VBN,VB,VBP,VBD    	wa-kela-kela                	RLS-RED-come
+commiserate       	VBP               	ka-kuru-a                   	STAT.IRR-commiserate-IMP
+compete           	JJ                	maka-<lrua>-lrumale         	RECP-<RED>-compete
+cook              	VB,VBD            	wa-aga                      	RLS-cook
+count             	VBD               	asi-asipi                   	RED-count
+count             	VBD               	ki<sai><sai>sange           	<RED><RED>count
+create            	VB,VBP            	tasu-naga-nagane=ta         	create-RED-name=1P(IN).BN
+dance             	VB                	dralray                     	dance
+dance             	VB                	maka-dralray,_              	REC-dance
+decent            	JJ                	mu-a-lecege                 	go-RLS-decent
+decent            	JJ                	mu-a-lecege,_               	go-RLS-decent
+decent            	JJ                	mu-a-lecege.\               	go-RLS-decent
+different         	JJ                	ka-ela                      	different
+different         	JJ                	lamakaela                   	different
+different         	JJ                	ma-elane                    	STAT.RLS-different
+different         	JJ                	ma-kaela                    	STAT.RLS-different
+different         	JJ                	ma-kaela-ela                	STAT.RLS-different-RED
+different         	JJ                	ma-kaela.\                  	STAT.IRR-different
+different         	JJ                	ma-kaela.\                  	STAT.RLS-different
+different         	JJ                	ma-kaelaela                 	STAT.RLS-different
+different         	JJ                	maela                       	different
+different         	JJ                	ta-makaela-ane=ta,\         	NMLZ-different-NMLZ=1P(IN).BG
+discuss           	VB,VBZ            	peaelaela                   	discuss
+discussed         	VBN,VBD           	<L2Mjianghao                	discussed
+do                	VB,VBP            	a-tu-mane-ane               	A-do-anything-NMLZ
+do                	VB,VBP            	apiane                      	do
+do                	VB,VBP            	lri-tu-bava                 	FUT-do-liquor
+do                	VB,VBP            	lri-tu-gaku=nay             	FUT-do-school=1P(EX).BN
+do                	VB,VBP            	pa-iya-iya                  	CAUS-RED-do
+do                	VB,VBP            	paiya                       	do
+do                	VB,VBP            	pi-a                        	do-REAL
+do                	VB,VBP            	pi-ane                      	do-NMLZ
+do                	VB,VBP            	sa-pia                      	when-do
+do                	VB,VBP            	sa-tu-lreveke-ane           	SA-do-millet-NMLZ
+do                	VB,VBP            	ta-pi-ane=ini               	NMZ-do-NMZ=3S.BG
+do                	VB,VBP            	ta-pia-ane=ini              	LOC-do-NMLZ=3S.BG
+do                	VB,VBP            	taka                        	do
+do                	VB,VBP            	tu-a-lrepenge=aku           	do-RLS-all=1S.BN
+do                	VB,VBP            	tu-a-sinalreme-ne           	do-RLS-scorn-FS
+do                	VB,VBP            	tu-a-tumane                 	do-RLS-do.things
+do                	VB,VBP            	tu-apui                     	do-fire
+do                	VB,VBP            	tu-apui=aku                 	do-fire=1S.BN
+do                	VB,VBP            	tu-capi-capili              	do-RED-tandoor
+do                	VB,VBP            	tu-daane                    	do-house
+do                	VB,VBP            	tu-gaku                     	do-school
+do                	VB,VBP            	tu-kua<lre>alre             	do-<RED>breakfast
+do                	VB,VBP            	tu-kuaubu                   	do-dinner
+do                	VB,VBP            	tu-kudrali                  	do-lunch
+do                	VB,VBP            	tu-lalake=su                	do-child=2S.BN
+do                	VB,VBP            	tu-lrisi                    	do-ceremony
+do                	VB,VBP            	tu-suape                    	do-broom
+do                	VB,VBP            	tu-supate                   	do-four
+do                	VB,VBP            	tu-tai-ane                  	do-taro-NMLZ
+dog               	VB,VBZ            	takurauru                   	dog
+dog               	VB,VBZ            	taupngu                     	dog
+dog               	VB,VBZ            	taupongu.\                  	dog
+dog               	VB,VBZ            	taupugnu                    	dog
+dog               	VB,VBZ            	taupung                     	dog
+dog               	VB,VBZ            	taupunge                    	dog
+dog               	VB,VBZ            	taupunge=ini                	dog=3S.BG
+dog               	VB,VBZ            	taupungu                    	dog
+dog               	VB,VBZ            	taupungu,_                  	dog
+dog               	VB,VBZ            	taupungu.\                  	dog
+dog               	VB,VBZ            	taupungu=ini                	dog=3S.BG
+dog               	VB,VBZ            	taupungu=ini,\              	dog=3S.BG
+dog               	VB,VBZ            	taupungu=ini.\              	dog=3S.BG
+dog               	VB,VBZ            	taupunug                    	dog
+dog               	VB,VBZ            	tawpong                     	dog
+dog               	VB,VBZ            	tawpong=ini                 	dog=3S.BG
+dominate          	VB                	a-kelrete-ane               	NMLZ-dominate-NMLZ
+dominate          	VB                	kelre-kelrete.\             	RED-dominate
+dominate          	VB                	kelrete-ane                 	dominate-NMLZ
+dominate          	VB                	w-a-kelre-kelrete,\         	ACT-RLS-RED-dominate
+dowry             	VBZ               	<L2M^pinliL2M>,\            	dowry
+dowry             	VBZ               	^pinliL2M>.\                	dowry
+dowry             	VBZ               	raruku^drane,\              	dowry
+dowry             	VBZ               	raruku^drane.\              	dowry
+dowry             	VBZ               	rarukudrane                 	dowry
+dowry             	VBZ               	rarukudrane,\               	dowry
+dowry             	VBZ               	rarukudrane.\               	dowry
+dowry             	VBZ               	rarukudrane==,\             	dowry
+dowry             	VBZ               	rarukudrane==,_             	dowry
+dowry             	VBZ               	tatulrevagane               	dowry
+dry               	JJ                	ka-mea-meael-ane            	real-RED-dry-NMZ
+dry               	JJ                	mu-ka-mea-meale             	go-KA-RED-dry
+dry               	JJ                	mu-ka-mea-meale-ane         	go-KA-RED-dry-NMLZ
+dry               	JJ                	mu-kameameale               	go-KA-RED-dry
+duck              	JJ                	haimai                      	duck
+early             	JJ                	sara-ape-apece              	early-RED-sleep
+easy              	JJ                	ka-matuaduay.\              	STAT.IRR-easy
+eat               	VB,VBP            	a-kane-ane                  	NMLZ-eat-NMLZ
+eat               	VB,VBP            	a-kane-ane,\                	NMLZ-eat-NMLZ
+eat               	VB,VBP            	a-kane-kane                 	NMLZ-RED-eat
+eat               	VB,VBP            	kane                        	eat
+eat               	VB,VBP            	kane-ane                    	eat-NMLZ
+eat               	VB,VBP            	kane-kane                   	RED-eat
+eat               	VB,VBP            	kane-kane=lini              	RED-eat=3P.BG
+eat               	VB,VBP            	kane.\                      	eat
+eat               	VB,VBP            	kane=numi                   	eat=2P.BN
+eat               	VB,VBP            	kanea                       	eat
+eat               	VB,VBP            	ki-pa-kane                  	PASS-CAUS-eat
+eat               	VB,VBP            	la-kane-ane                 	P-eat-NMLZ
+eat               	VB,VBP            	lri-kane-ane                	FUT-eat-RED-eat
+eat               	VB,VBP            	lu-kane                     	when-eat
+eat               	VB,VBP            	sa-kane-^kane,\             	NMLZ-RED-eat
+eat               	VB,VBP            	sa-kane-kane,\              	NMLZ-eat-NMLZ
+eat               	VB,VBP            	sa-kane-kane==,\            	NMLZ-RED-eat
+eat               	VB,VBP            	ta-kane-ane-ane             	NMLZ-eat-RED-NMLZ
+eat               	VB,VBP            	ta-kane-kane-ane            	NMLZ-RED-eat-NMLZ
+eat               	VB,VBP            	ta-kane-kane-ane,\          	NMLZ-RED-eat-NMLZ
+eat               	VB,VBP            	taku-kane-kane              	simultaneously-RED-eat
+eat               	VB,VBP            	taku-kane-kane              	while-RED-eat
+eat               	VB,VBP            	w-a-kane                    	ACT-RLS-eat
+emphasize         	VBP               	tukuciacingalre=numi        	emphasize=2P.BN
+engage            	VB                	jiaowang                    	engage
+engage            	VB                	kitu<lreve>lrevege,_        	<RED>engage
+engage            	VB                	tu-a-siasi^lange-ane,\      	make-RLS-NMLZ-engage-NMLZ
+engage            	VB                	tu-a-siasi^lange-ane.\      	make-RLS-NMLZ-engage-NMLZ
+engage            	VB                	tu-a-siasilange-ane         	make-RLS-NMLZ-engage-NMLZ
+engage            	VB                	tu-a-siasilange-ane,_       	make-RLS-NMLZ-engage-NMLZ
+enjoy             	VB                	sia-<va>vava                	enjoy-<RED>toy
+enjoy             	VB                	sia-vava                    	enjoy-toy
+enough            	JJ                	ma-kakelrete                	STAT.RLS-enough
+enter             	VB,VBP            	jindao                      	enter
+escape            	VB,VBP            	mu-bere.\                   	go-escape
+escape            	VB,VBP            	mu<a>bere                   	<RLS>escape
+escape            	VB,VBP            	ngi-lribate                 	NGI-escape
+escape            	VB,VBP            	pa-uadripi                  	CAUS-escape
+escape            	VB,VBP            	ubelre                      	escape
+escape            	VB,VBP            	ubere                       	escape
+escape            	VB,VBP            	wa-udri-udripi              	RLS-RED-escape
+escort            	VB                	sateatedre                  	escort
+escort            	VB                	w-a-sateatedre.\            	ACT-RLS-escort
+fall              	VB,VBP            	ca-cilri                    	Ca-fall
+fall              	VB,VBP            	lri-mua-dreke=su,_          	FUT-go-fall==2S.BN
+fall              	VB,VBP            	makakai                     	fall
+fall              	VB,VBP            	mu-a-cilri                  	go.RLS-fall
+fall              	VB,VBP            	mu-a-dreke                  	go-RLS-fall
+fall              	VB,VBP            	mu-a-dreke.\                	go-RLS-fall
+fall              	VB,VBP            	mu-adreke                   	go-fall
+fall              	VB,VBP            	mu-ruru                     	go-fall
+fall              	VB,VBP            	na-muadreke                 	PFV-go-fall
+fall              	VB,VBP            	ngu-adreke                  	REFL-fall
+fall              	VB,VBP            	pa-ucilri                   	CAUS-fall
+fall              	VB,VBP            	pa-ucilri-cilri             	CAUS-fall-RED
+fall              	VB,VBP            	pa-ururu                    	CAUS-fall
+fall              	VB,VBP            	sa-ngu-cilri                	when-REFL-fall
+fall              	VB,VBP            	t-ururu                     	T-fall
+fall              	VB,VBP            	tu-a-verevere               	toward-RLS-fall
+fall              	VB,VBP            	tu-verevere                 	toward-fall
+fell              	VBD               	gugu                        	fell
+female            	JJ                	a<ba><ba>babay              	<RED><RED>female
+female            	JJ                	a^babay.\                   	female
+female            	JJ                	ababai,\                    	female
+female            	JJ                	ababay                      	female
+female            	JJ                	ababay,\                    	female
+female            	JJ                	ababay,_                    	female
+female            	JJ                	ababay-ane.\                	female-NMLZ
+female            	JJ                	ababay-ane=su,_             	female-NMLZ=2S.BG
+female            	JJ                	ababay.\                    	female
+female            	JJ                	ababay=su                   	female=2S.BN
+female            	JJ                	ki                          	side-female-NMLZ
+female            	JJ                	kuini                       	female
+female            	JJ                	la-ababay                   	P-female
+female            	JJ                	la-abaiay                   	PL-female
+female            	JJ                	la-maliali                  	PL-female
+female            	JJ                	la-maliali,\                	PL-female
+female            	JJ                	la-maliali.\                	PL-female
+fight             	VB                	ki-ka-ruburu-buru           	KI-STAT.IRR-fight-RED
+fill              	VB                	a-pa-sute-ane               	A-CAUS-fill-NMLZ
+fill              	VB                	maka-surakele=nga           	POSS.MOD-fill=PFV
+fill              	VB                	suragele                    	fill
+find              	VB                	maka-kidringay              	RECP-find
+find              	VB                	sila-silape                 	RED-find
+find              	VB                	silape,\                    	find
+finish            	VBP               	pangimya                    	finish
+finish            	VBP               	pianga                      	finish
+finish            	VBP               	taku-vavea                  	finish-one
+finish            	VBP               	tu-a-lrepeng=aku.\          	make-RLS-finish=1S.BN
+finish            	VBP               	tu-a-lrepenge=^aku.\        	TU-RLS-finish=1S.BN
+finish            	VBP               	tulrepenge                  	finish
+finish            	VBP               	wanbiL2M>                   	finish
+first             	JJ                	ka-tuase-ana                	STAT.IRR-leave-first
+first             	JJ                	ki-a-saulri-ana             	PASS-RLS-return-first
+first             	JJ                	pa-asuala-la-nga            	CAUS-first-LA-PFV
+first             	JJ                	palribulu-ana               	help-first
+first             	JJ                	pararubu-ana                	help-first
+first             	JJ                	siludu-ana                  	pick.up-first
+flap              	VB                	visi-visi                   	RED-flap
+follow            	VB                	kabibibilrili               	follow
+follow            	VB                	lapatupapalraw              	follow
+follow            	VB                	pa-tu-pa-palra              	along-TU-RED-follow
+follow            	VB                	pa-tuapapala                	CAUS-follow
+follow            	VB                	patua-pa-pala               	meanwhile-RED-follow
+follow            	VB                	tapiapiane                  	follow
+follow            	VB                	tu-<pa>-palra               	<RED>-follow
+follow            	VB                	tu-pa-pa-palra              	TU-RED-RED-follow
+follow            	VB                	tu-palra                    	TU-follow
+follow            	VB                	tu-papara                   	TU-follow
+follow            	VB                	tu<a><pa>palra              	<RLS><RED>follow
+follow            	VB                	tu<pa>palra                 	<RED>follow
+follow            	VB                	tupala-pala                 	follow
+follow            	VB                	tupalra                     	follow
+follow            	VB                	tupapalra                   	follow
+forget            	VB                	marimuriuru                 	forget
+frightened        	JJ,VBD            	ma-kiucu                    	STAT.RLS-frightened
+frightened        	JJ,VBD            	ngi-tuluku                  	REFL-frightened
+frightened        	JJ,VBD            	tuluku                      	frightened
+frightened        	JJ,VBD            	uguludru                    	frightened
+gentle            	JJ                	ma-sulrapele                	STAT.RLS-gentle
+gentle            	JJ                	ma=-sulraulrapele,_         	STAT.RLS-gentle
+gentle            	JJ                	ta-ka-sulrap-ane=su         	NMLZ-STAT.IRR-gentle-NMLZ=2S.BG
+get               	VB,VBP            	a-ki-a-angatu-ane.\         	NMLZ-get-RLS-wood-NMLZ
+get               	VB,VBP            	dao                         	get
+get               	VB,VBP            	de                          	get
+get               	VB,VBP            	ki                          	get
+get               	VB,VBP            	ki-a-a^ngatu,\              	get-RLS-wood
+get               	VB,VBP            	ki-a-ka<mura>muraw          	get-RLS-<RED>pomelo
+get               	VB,VBP            	ki-a-kamadha-madha          	get-RLS-mango-RED
+get               	VB,VBP            	ki-a-kamadhamadha           	get-RLS-mango-RED
+get               	VB,VBP            	ki-a-kamurauraw             	get-RLS--pomelo
+get               	VB,VBP            	ki-barasi=nay               	get-stone=1P(EX).BN
+get               	VB,VBP            	ki-becenge                  	get-millet
+get               	VB,VBP            	ki-enai=nay                 	get-stone=1P(EX).BN
+get               	VB,VBP            	ki-kamadha-madha            	get-mango-RED
+get               	VB,VBP            	ki-kamadha=li               	get-mango=1S.BG
+get               	VB,VBP            	ki-suape                    	get-broom
+get               	VB,VBP            	ki-suape                    	get-swipe
+get               	VB,VBP            	ki-suape-ane                	get-sweep-NMLZ
+get               	VB,VBP            	ki-tai                      	get-taro
+get               	VB,VBP            	ki-urasi                    	get-sweet.potato
+get               	VB,VBP            	pa-ki-a-angatu=su.\         	CAUS-get-RLS-wood=2S.BN
+get               	VB,VBP            	ta-ki-bece-becenge-ane.\    	LOC-get-RED-millet-NMLZ
+girl              	JJ                	ababay                      	girl
+girl              	JJ                	alisu                       	girl
+girl              	JJ                	alisu,\                     	girl
+girl              	JJ                	apapai                      	girl
+give              	VB                	a-baai-ane                  	NMLZ-give-NMLZ
+give              	VB                	a-baai-ane=li               	A-give-NMLZ=1S.BG
+give              	VB                	ba-bai=ini                  	RED-give=3S.BG
+give              	VB                	baai                        	give
+give              	VB                	baai=ini                    	give=3S.BG
+give              	VB                	bai                         	give
+give              	VB                	bai,\                       	give
+give              	VB                	bai-ane                     	give-NMLZ
+give              	VB                	gei                         	give
+give              	VB                	ki-baai=lini                	PASS-give=3P.BG
+give              	VB                	ni                          	give
+give              	VB                	w-a-bai                     	ACT-RLS-give
+give              	VB                	w-a-bai,\                   	ACT-RLS-give
+go                	VB,VBP            	a-u-pa-palange-ane=nay.\    	A-go-RED-court-NMLZ=1EPL.GEN
+go                	VB,VBP            	ana-mu-a=su                 	ANA-go-IMP=2S.BN
+go                	VB,VBP            	i-mu-adringi=nga            	LOC-go-inside=PFV
+go                	VB,VBP            	ila                         	go
+go                	VB,VBP            	ila-ta                      	go-1P(IN).BN
+go                	VB,VBP            	lri-mu-gaku=nay             	FUT-go-school=1P(EX).BN
+go                	VB,VBP            	lri-mua-ane                 	FUT-go-NMLZ
+go                	VB,VBP            	lri-mua-dreke=su,_          	FUT-go-fall==2S.BN
+go                	VB,VBP            	lri-mua=aku                 	FUT-go=1S.BN
+go                	VB,VBP            	lri-tara-mua=aku            	FUT-NEC.MOD-go=1S.BN
+go                	VB,VBP            	matuase=nay                 	go
+go                	VB,VBP            	mu                          	go
+go                	VB,VBP            	mu,_                        	go
+go                	VB,VBP            	mu-a                        	go-REAL
+go                	VB,VBP            	mu-a                        	go-RLS
+go                	VB,VBP            	mu-a-adringi                	go-REAL-inside
+go                	VB,VBP            	mu-a-belenge                	go-RLS-above
+go                	VB,VBP            	mu-a-bungubungu             	go-RLS-collide
+go                	VB,VBP            	mu-a-dreke                  	go-RLS-fall
+go                	VB,VBP            	mu-a-dreke.\                	go-RLS-fall
+go                	VB,VBP            	mu-a-dri-adringi            	go-RLS-RED-inside
+go                	VB,VBP            	mu-a-dringa-dringay         	go-RLS-RED-good
+go                	VB,VBP            	mu-a-ganganga               	go-RLS-wide.open
+go                	VB,VBP            	mu-a-gogo                   	go-RLS-pour
+go                	VB,VBP            	mu-a-inu                    	go-RLS-where
+go                	VB,VBP            	mu-a-inu-a=ini              	go-RLS-where-why=3S.BG
+go                	VB,VBP            	mu-a-inua=ini               	go-REAL-where=3S.BN
+go                	VB,VBP            	mu-a-ka-lava                	go-REAL-state-wait
+go                	VB,VBP            	mu-a-kicacai<cai><cai>ri    	go-RLS-<RED><RED>mess.around
+go                	VB,VBP            	mu-a-lecege                 	go-RLS-decent
+go                	VB,VBP            	mu-a-lecege,_               	go-RLS-decent
+go                	VB,VBP            	mu-a-lecege.\               	go-RLS-decent
+go                	VB,VBP            	mu-a-lralra                 	go-RLS-put.off
+go                	VB,VBP            	mu-a-lriki-lriki=li         	go-RLS-RED-bike=1S.BG
+go                	VB,VBP            	mu-a-lriki-lrikili          	go-RLS-RED-bicycle
+go                	VB,VBP            	mu-a-lriki-lrikili          	go-RLS-RED-bike
+go                	VB,VBP            	mu-a-ngi-talaisi            	go-RLS-REFL-swing
+go                	VB,VBP            	mu-a-pungupungu             	go-RLS-bump
+go                	VB,VBP            	mu-a-sakene                 	go-RLS-respect
+go                	VB,VBP            	mu-a-tail-ane               	go-REAL-long-NMLZ
+go                	VB,VBP            	mu-a<lra>lra                	go-<RED>untie
+go                	VB,VBP            	mu-a==                      	go-RLS
+go                	VB,VBP            	mu-a==,\                    	go-RLS
+go                	VB,VBP            	mu-a=lini                   	go-RLS=3P.BG
+go                	VB,VBP            	mu-adreke                   	go-stumble.over
+go                	VB,VBP            	mu-adreke                   	go-fall
+go                	VB,VBP            	mu-adreke                   	go-fall.down
+go                	VB,VBP            	mu-adringi                  	go-inside
+go                	VB,VBP            	mu-alra                     	go-untie
+go                	VB,VBP            	mu-alra-ane                 	go-take-NMLZ
+go                	VB,VBP            	mu-babiabila                	go-river.side
+go                	VB,VBP            	mu-belenge                  	go-up
+go                	VB,VBP            	mu-belenge                  	go-above
+go                	VB,VBP            	mu-belenge,\                	go-top
+go                	VB,VBP            	mu-bere.\                   	go-escape
+go                	VB,VBP            	mu-biabila.\                	go-bank
+go                	VB,VBP            	mu-biabila=nga              	go-bank-PFV
+go                	VB,VBP            	mu-bungubungu               	go-collide
+go                	VB,VBP            	mu-cilri                    	go-throw
+go                	VB,VBP            	mu-cu-cugu=nga              	go-RED-incident=PFV
+go                	VB,VBP            	mu-drakerale                	go-river
+go                	VB,VBP            	mu-drakerane                	go-river
+go                	VB,VBP            	mu-gugu=nga                 	go-spread=PFV
+go                	VB,VBP            	mu-inu                      	go-where
+go                	VB,VBP            	mu-ka-mea-meale             	go-KA-RED-dry
+go                	VB,VBP            	mu-ka-mea-meale-ane         	go-KA-RED-dry-NMLZ
+go                	VB,VBP            	mu-kameameale               	go-KA-RED-dry
+go                	VB,VBP            	mu-kiukai                   	go-church
+go                	VB,VBP            	mu-laimay,\                 	go-cloth
+go                	VB,VBP            	mu-latadre                  	go-outside
+go                	VB,VBP            	mu-latradre                 	go-outside
+go                	VB,VBP            	mu-lebe                     	go-below
+go                	VB,VBP            	mu-lebe                     	go-down
+go                	VB,VBP            	mu-lebe=nga                 	go-down=PFV
+go                	VB,VBP            	mu-lisi                     	go-be.bad
+go                	VB,VBP            	mu-lrapace                  	go-gorgeous
+go                	VB,VBP            	mu-lregelrege               	go-mountain
+go                	VB,VBP            	mu-lregelrege,_             	go-mountain
+go                	VB,VBP            	mu-lri-lri-lrikili          	go-RED-RED-bicycle
+go                	VB,VBP            	mu-ruru                     	go-fall
+go                	VB,VBP            	mu-su-nagane                	go-call-name
+go                	VB,VBP            	mu-talrubun-ane             	go-hat-NMLZ
+go                	VB,VBP            	mu-talrubunu                	go-hat
+go                	VB,VBP            	mu-taluvayvay               	go-come.out
+go                	VB,VBP            	mu-tavanane                 	go-inside.of.the.house
+go                	VB,VBP            	mu-tavanane.                	go-home
+go                	VB,VBP            	mu-valru                    	go-river
+go                	VB,VBP            	mu==                        	go
+go                	VB,VBP            	mua                         	go
+go                	VB,VBP            	mua-ane                     	go-NMLZ
+go                	VB,VBP            	mua-cugu                    	go-incident
+go                	VB,VBP            	mua-day-dayli=nga           	go-RED-far=PFV
+go                	VB,VBP            	mua-dringa-dringay          	go-RED-good
+go                	VB,VBP            	mua-dringay                 	go-inside
+go                	VB,VBP            	mua-dringi                  	go-inside
+go                	VB,VBP            	mua-ini                     	go=3S.BG
+go                	VB,VBP            	mua-inu                     	go-where
+go                	VB,VBP            	mua-kipaelre                	go-join
+go                	VB,VBP            	mua==                       	go-RLS
+go                	VB,VBP            	mua=nay                     	go=1P(EX).BN
+go                	VB,VBP            	mua=nga                     	go=PFV
+go                	VB,VBP            	mudrakerane                 	go-river
+go                	VB,VBP            	na-muadreke                 	PFV-go-fall
+go                	VB,VBP            	nau-mu-a                    	want-go-RLS
+go                	VB,VBP            	naw=tara-mua                	1S.BN=NEC.MOD-go
+go                	VB,VBP            	ngu-balriu                  	go-home
+go                	VB,VBP            	ngu-cungu-cungu             	go-RED-bump
+go                	VB,VBP            	ngu-pa-pa-palange=su        	go-RED-RED-court=2S.BN
+go                	VB,VBP            	pa                          	CAUS-go
+go                	VB,VBP            	pa-u-cilr=ini               	CAUS-go-down=3S.BG
+go                	VB,VBP            	pa-u-cilri                  	CAUS-go-down
+go                	VB,VBP            	qu                          	go
+go                	VB,VBP            	sa-mu-a                     	when-go-RLS
+go                	VB,VBP            	sa-mu-a                     	when-go
+go                	VB,VBP            	sa-mu-lebe                  	when-go-down
+go                	VB,VBP            	ta-ma-mua-mua-ane           	LOC-STAT.RLS-RED-go-NMLZ
+go                	VB,VBP            	ta-ma-u-sake-sakene-ane     	LOC-RECP-go-RED-respcet-NMLZ
+go                	VB,VBP            	ta-u-lisi-ane               	LOC-go-bad-NMLZ
+go                	VB,VBP            	ta-u-lisi-si-ane            	LOC-go-bad-RED-NMLZ
+go                	VB,VBP            	ta-u-ma-dre-dreele-ane      	LOC-go-RECP-RED-see-NMLZ
+go                	VB,VBP            	u-adreke                    	go-stumble.over
+go                	VB,VBP            	u-balriu                    	go-home
+go                	VB,VBP            	u-balriu=ta                 	go-home=1P(IN).BN
+go                	VB,VBP            	u-belenge                   	go-up
+go                	VB,VBP            	u-belenge=nga               	go-up=PFV
+go                	VB,VBP            	u-cakena                    	go-ground
+go                	VB,VBP            	u-cilri                     	go-throw
+go                	VB,VBP            	u-dalran                    	go-field
+go                	VB,VBP            	u-ka-lavalava               	go-STAT.IRR-wait
+go                	VB,VBP            	u-kiukai                    	go-church
+go                	VB,VBP            	u-lebe                      	go-down
+go                	VB,VBP            	u-lebe=nga                  	go-down=PFV
+go                	VB,VBP            	u-pa-palange                	go-RED-court
+go                	VB,VBP            	u-pungupungu                	go-bump.into
+go                	VB,VBP            	ua                          	go
+go                	VB,VBP            	w-a-mua                     	ACT-RLS-go
+go                	VB,VBP            	wa-kela                     	RLS-go
+go                	VB,VBP            	wa-mua                      	RLS-go
+good              	JJ                	a-tu-sarir-ane              	NMLZ-need-good-NMLZ
+good              	JJ                	ka-tathai-thariri           	STAT.IRR-RED-good
+good              	JJ                	ka-thariri                  	STAT.IRR-good
+good              	JJ                	ma-thariri                  	STAT.RLS-good
+good              	JJ                	mu-a-dringa-dringay         	go-RLS-RED-good
+good              	JJ                	mua-dringa-dringay          	go-RED-good
+good              	JJ                	sarirane                    	good
+goodbye           	JJ                	ai                          	goodbye
+goodbye           	JJ                	ai==                        	goodbye
+goodbye           	JJ                	caicini                     	goodbye
+goodbye           	JJ                	kipusau                     	goodbye
+goose             	JJ                	lakuka                      	goose
+gorgeous          	JJ                	mu-lrapace                  	go-gorgeous
+grandmother       	VB                	kayngu                      	grandmother
+grandmother       	VB                	la-kayngu                   	P-grandmother
+grasp             	VB,VBD            	dai-daisi                   	RED-grasp
+grasp             	VB,VBD            	karasi                      	grasp
+grasp             	VB,VBD            	kyaraishi                   	grasp
+happy             	JJ                	ki-ra-ra-ragay.\            	KI-RED-RED-happy
+happy             	JJ                	ki-raga-ragai-nga           	KI-RED-happy
+happy             	JJ                	ki-ragai                    	KI-happy
+happy             	JJ                	ki-ragai-nga                	KI-happy-PFV
+happy             	JJ                	ki-raka-rakai               	KI-RED-happy
+happy             	JJ                	ki<ra><ra>ragay=nga         	<RED>-<RED>happy=PFV
+happy             	JJ                	ki<ra>ragay=nga             	<RED>happy=PFV
+happy             	JJ                	ki<ra>rakay                 	<RED>happy
+happy             	JJ                	ki<ra>raragay               	<RED>happy
+happy             	JJ                	kia<ra>rakay                	<RED>happy
+happy             	JJ                	kiragay                     	happy
+happy             	JJ                	mati-lrulrupi               	very-happy
+happy             	JJ                	raga-ragai                  	RED-happy
+hard              	JJ                	kisamula                    	hard-working
+hard              	JJ                	molamola                    	hard
+harvest           	JJS               	kala-lrisi-^ane.\           	NMLZ-harvest-NMLZ
+harvest           	JJS               	lrisi-si-si-ane,\           	harvest-RED-RED-NMLZ
+harvest           	JJS               	tangi-elribalri-balri-tane  	when-harvest-RED-NMLZ
+have              	VB,VBP            	pi-tukunui-ane              	have-jelly-NMZ
+have              	VB,VBP            	you                         	have
+head              	JJ                	aulru=ini                   	head=3S.BG
+head              	JJ                	aulruini                    	head
+headwear          	JJ                	sagniragerane,_             	headwear
+headwear          	JJ                	taitharare=ini,_            	headwear=3S.BG
+hear              	VBP               	ki<a>lalra                  	<RLS>hear
+help              	VB,VBP            	ki-palribulru               	PASS-help
+help              	VB,VBP            	lri-palribulu               	FUT-help
+help              	VB,VBP            	ma-lraru-rarubu.\           	REC-RED-help
+help              	VB,VBP            	mapa-lri-palripulu          	RECP-FUT-help
+help              	VB,VBP            	nau-pararubu                	WOD.MOD-help
+help              	VB,VBP            	pa-rarubu=iniane,_          	CAUS-help=3S.FO
+help              	VB,VBP            	palalrubu=ngai              	help=PFV
+help              	VB,VBP            	palra-lua-lupu,             	help-RED-help,
+help              	VB,VBP            	palra<lua>lupu              	help<RED>help
+help              	VB,VBP            	palralubu                   	help
+help              	VB,VBP            	palralupu                   	help
+help              	VB,VBP            	palribulu                   	help
+help              	VB,VBP            	palribulu-ana               	help-first
+help              	VB,VBP            	palribulu==                 	help
+help              	VB,VBP            	paralrubu                   	help
+help              	VB,VBP            	pararubu                    	help
+help              	VB,VBP            	pararubu-ana                	help-first
+help              	VB,VBP            	ralubu                      	help
+help              	VB,VBP            	ta-pa-rarub-ane-su          	NMLZ-CAU-help-NMLZ=2SG.GEN
+help              	VB,VBP            	ta-palralup-ane=ta,         	NMLZ-help-NMLZ=1P(IN).BN
+help              	VB,VBP            	ta-palribulu-ane=numi       	LOC-help-NMLZ=2P.BN
+help              	VB,VBP            	ta-paralubu-ane=nay         	NMLZ-help-NMLZ=1P(EX).BG
+help              	VB,VBP            	ta=pararubu                 	1P(IN).BN=help
+highest           	JJS               	zuigao                      	highest
+hold              	VB                	ipipi                       	hold
+hold              	VB                	kebere                      	hold
+hold              	VB                	taku-ucenge                 	simultanously-hold
+holy              	VBN               	shensheng                   	holy
+hometown          	JJ                	balriu                      	hometown
+hope              	VBP               	ani                         	hope
+horn              	JJ                	ki                          	horn
+horn              	JJ                	launge                      	horn
+horn              	JJ                	laungu                      	horn
+horn              	JJ                	laungu=ini                  	horn=3S.BG
+horn              	JJ                	lawngu                      	horn
+horn              	JJ                	sa-laungu-ane               	when-horn-NMLZ
+horn              	JJ                	sa-lawngu-ane               	when-horn-NMLZ
+horn              	JJ                	salaungane                  	when-horn-NMLZ
+hug               	VB,VBD            	ibibi                       	hug
+human             	JJ                	a-umaumase=nga              	become-human=PFV
+human             	JJ                	a=naw=umaumase              	become=1S.BN=human
+human             	JJ                	ki                          	RED-human
+human             	JJ                	ngi-umaumase                	REFL-human
+human             	JJ                	ta-ka-umaumas-ane=ini       	NMLZ-true-human-NMLZ=3S.BG
+human             	JJ                	taka-umause-ane             	TAKA-human-NMLZ
+human             	JJ                	umaumase                    	human
+humming           	VBG               	ponpon                      	humming
+hundred           	JJ,VBD            	idai                        	hundred
+hunt              	VB                	a-alupu-ane.\               	NMLZ-hunt-NMLZ
+hunt              	VB                	pa-alu-alupu.\              	CAUS-RED-hunt
+hunt              	VB                	pana=nga.\                  	hunt=PFV
+hunt              	VB                	ta-alu-alupu-ane            	LOC-RED-hunt-NMLZ
+hunt              	VB                	ta-alu^pu-ane.\             	NMLZ-hunt-NMLZ
+hunt              	VB                	tara-alu-alupu              	NEC.MOD-RED-hunt
+hunt              	VB                	tara-alupu                  	NEC.MOD-hunt
+hunt              	VB                	w-a-alu-alupu.\             	ACT-RLS-RED-hunt
+hunt              	VB                	w-a-alupu                   	ACT-RLS-hunt
+hurt              	VBN               	angeange                    	hurt
+hurt              	VBN               	lri-ka-dula=su              	FUT-STAT.IRR-hurt=2S.BN
+important         	JJ                	ani-ka-kucingalre           	why-STAT.IRR-important
+important         	JJ                	ka-kucingalre               	STAT.IRR-important
+important         	JJ                	ma-ku-cia-^ciangalre=nga    	STAT.RLS-state-RED-important=PFV
+important         	JJ                	ma-ku-cia-cingalre=nga,\    	STAT.RLS-RED-important=PFV
+important         	JJ                	ma-ku<cia>ci^ngale.\        	STAT.RLS-<RED>important
+important         	JJ                	ma-ku<cia>cingalre=nga      	STAT.RLS-<RED>important=PFV
+important         	JJ                	ma-ku<cia>cingalre=nga,\    	STAT.RLS-<RED>-important=PFV
+important         	JJ                	ma-ku^cingalre              	STAT.RLS-important
+important         	JJ                	ma-kuciacingalre            	STAT.RLS-important
+important         	JJ                	ma-kucingale                	STAT.RLS-important
+important         	JJ                	ma-kucingalre               	STAT.RLS-important
+important         	JJ                	ma-kucingalre,\             	STAT.RLS-important
+important         	JJ                	ma-kucingalre.\             	STAT.RLS-important
+important         	JJ                	tu-a-kucingalre             	TU-RLS-important
+important         	JJ                	tu-kucingale                	TU-important
+important         	JJ                	zhongyao                    	important
+incapable         	JJ                	ubangalre                   	incapable
+is                	VBZ               	<L2M^shi                    	is
+is                	VBZ               	shi                         	is
+join              	VB,VBP            	mua-kipaelre                	go-join
+keep              	VB                	lapulapu=ini                	keep=3S.BG
+know              	VB,VBP            	a-thingal-ane               	NMLZ-know-NMLZ
+know              	VB,VBP            	i-thingale=nga              	FUT-know=PFV
+know              	VB,VBP            	ki-a-thia-thia-thingaleng== 	PASS-RLS-RED-RED-know
+know              	VB,VBP            	ki-thia-thingale            	KI-RED-know
+know              	VB,VBP            	ma-thinga-thingale          	STAT.RLS-RED-know
+know              	VB,VBP            	pa-thingale                 	CAUS-know
+know              	VB,VBP            	pa-thingale-ane             	CAUS-know-NMLZ
+know              	VB,VBP            	sa-ki-thinga-thingale-ane   	when-PASS-RED-know-NMLZ
+know              	VB,VBP            	sa-pa-tu-thingale-ane       	NMLZ-CAUS-TU-know-NMLZ
+know              	VB,VBP            	ta-ma-sa-thingale-ane=ta    	LOC-STAT.RLS-when-know-NMLZ=1P(IN).BN
+know              	VB,VBP            	thia-thia-thingale          	RED-RED-know
+know              	VB,VBP            	thiathiale                  	know
+know              	VB,VBP            	thinga-thingale             	RED-know
+know              	VB,VBP            	thingale                    	know
+know              	VB,VBP            	thingale,\                  	know
+know              	VB,VBP            	thingale=nga,_              	know=PFV
+know              	VB,VBP            	w-a-thinga-thingale         	ACT-RLS-RED-know
+know              	VB,VBP            	w-a-thingale                	ACT-RLS-know
+know              	VB,VBP            	wa-thingale                 	ACT-RLS-know
+know              	VB,VBP            	wa-thingale                 	RLS-know
+know              	VB,VBP            	wa-thingale=nga             	RLS-know=PFV
+last              	JJ                	bili-ane=nga                	last-NMLZ=PFV
+lazurite          	JJ                	pu-silu,_                   	put-lazurite
+leave             	VB,VBP            	ka-tua-tuase                	STAT.IRR-RED-leave
+leave             	VB,VBP            	ka-tua-tuase,\              	STAT.IRR-RED-leave
+leave             	VB,VBP            	ka-tua-tuase,\              	STAT.IRR-<RED>-leave
+leave             	VB,VBP            	ka-tua-tuase.\              	STAT.IRR-RED-leave
+leave             	VB,VBP            	ka-tua-tuase==              	STAT.IRR-RED-leave
+leave             	VB,VBP            	ka-tua-tuase=nga            	STAT.IRR-RED-leave=PFV
+leave             	VB,VBP            	ka-tuase                    	IRR-leave
+leave             	VB,VBP            	ka-tuase                    	STAT.IRR-leave
+leave             	VB,VBP            	ka-tuase                    	STAT-leave
+leave             	VB,VBP            	ka-tuase,                   	STAT.IRR-leave
+leave             	VB,VBP            	ka-tuase,\                  	STAT.IRR-leave
+leave             	VB,VBP            	ka-tuase,_                  	STAT.IRR-leave
+leave             	VB,VBP            	ka-tuase-ana                	STAT.IRR-leave-first
+leave             	VB,VBP            	ka-tuase==                  	STAT.IRR-leave
+leave             	VB,VBP            	ka-tuase=aku                	STAT.IRR-leave=1S.BN
+leave             	VB,VBP            	ka-tuase=nga                	STAT.IRR-leave=PFV
+leave             	VB,VBP            	ka-tuase=nga=aku            	STAT.IRR-leave=PFV=1S.BN
+leave             	VB,VBP            	ka-tuase=nga=nay.\          	STAT.IRR-leave=PFV=1P(EX).BG
+leave             	VB,VBP            	ka-twase                    	STAT.IRR-leave
+leave             	VB,VBP            	ka<tua>tuase==,_            	<RED>leave
+leave             	VB,VBP            	kainganay                   	leave
+leave             	VB,VBP            	katuase                     	STAT.IRR-leave
+leave             	VB,VBP            	katuase                     	leave
+leave             	VB,VBP            	katuase-ane                 	leave-NMLZ
+leave             	VB,VBP            	lri-ka-tuase                	FUT-STAT.IRR-leave
+leave             	VB,VBP            	ma-tua-tuase                	STAT.RLS-RED-leave
+leave             	VB,VBP            	ma-tuase                    	STAT.RLS-leave
+leave             	VB,VBP            	ma-tuase=nay                	STAT.RLS-leave=1P(EX).BN
+leave             	VB,VBP            	ma-u<va>vagai._             	MA-<RED>leave
+leave             	VB,VBP            	pa-ka-tuase                 	CAUS-STAT.IRR-leave
+leave             	VB,VBP            	sa-ka-<tua>tuase            	when-STAT.IRR-<RED>-leave
+leave             	VB,VBP            	sa-ka-tuase                 	when-STAT.IRR-leave
+leave             	VB,VBP            	suru=ini                    	leave=3S.BN
+leave             	VB,VBP            	taku-ka-tua-tuase           	at.the.same.time-STAT.IRR-RED-leave
+leave             	VB,VBP            	taku-ka-tua-tuase           	simultaneously-STAT.IRR-RED-leave
+left              	VBN,VBD           	kasane                      	left
+let               	VB,VBP            	anika                       	let
+let               	VB,VBP            	pangu                       	let
+let               	VB,VBP            	sangu-lrialringaw-ane       	let-recall-NMLZ
+light             	JJ,VB             	dringki                     	light
+like              	VB,VBP            	Miya-miya                   	RED-like
+like              	VB,VBP            	ka-dalame                   	STAT.IRR-like
+like              	VB,VBP            	ka-dalame=aku               	STAT.IRR-like=1S.BN
+like              	VB,VBP            	ka-dalame=aku               	狀態.非實現-like=1S.BN
+like              	VB,VBP            	ka-talame=ini               	STAT.IRR-like=3S.BG
+like              	VB,VBP            	kadalame,\                  	like
+like              	VB,VBP            	kila                        	like
+like              	VB,VBP            	lau-lri-ka-dalame           	POSS.MOD-FUT-STAT.IRR-like
+like              	VB,VBP            	ma-dalame,_                 	STAT.RLS-like
+like              	VB,VBP            	maiya                       	like
+like              	VB,VBP            	mararamau                   	like
+like              	VB,VBP            	maru-amani=nga              	MARU-like=PFV
+like              	VB,VBP            	maru-dingki                 	like-light.bulb
+like              	VB,VBP            	mati-a-da-dalame            	very-RLS-RED-like
+like              	VB,VBP            	mati-da-dalame              	very-RED-like
+like              	VB,VBP            	mati-da-dalame.\            	CAUS-RED-like
+like              	VB,VBP            	mia                         	like
+like              	VB,VBP            	mia=iniane                  	like=3S.FO
+like              	VB,VBP            	mia=nga                     	like=PFV
+like              	VB,VBP            	mia=su                      	like=2S.BN
+like              	VB,VBP            	miakau,\                    	like
+like              	VB,VBP            	miaki                       	like
+like              	VB,VBP            	miakitali                   	like
+like              	VB,VBP            	ngi-mia                     	NGI-like
+like              	VB,VBP            	ngi-mia-lri=nga             	self-like-LRI=PFV
+like              	VB,VBP            	ngi-mia-mia=nga             	REFL-RED-like=PFV
+like              	VB,VBP            	ngi-miya-iya                	REFL-like-RED
+like              	VB,VBP            	ngi-miya-miya               	REFL-RED-like
+like              	VB,VBP            	ngi-miya=nga                	REFL-like=PFV
+like              	VB,VBP            	ta-pa-ngi-mi-ane=ini        	NMLZ-CAU-self-like-NMZ=3SG.GEN
+like              	VB,VBP            	tangi-mia-mia               	happen-RED-like
+like              	VB,VBP            	xiang                       	like
+live              	JJ,VBP            	pa-uadripi                  	CAUS-live
+live              	JJ,VBP            	wa-udri-udripi,\            	RLS-RED-live
+live              	JJ,VBP            	wa-udriudripi               	RLS-live
+long              	JJ                	ka-elrenge                  	STAT.IRR-long
+long              	JJ                	ma-elrenge                  	STAT.RLS-long
+long              	JJ                	mu-a-tail-ane               	go-REAL-long-NMLZ
+look              	VB,VBP            	dreele                      	look
+look              	VB,VBP            	papu-le-le-lebe             	look-RED-RED-down
+lose              	VB                	maka-ututhu                 	POSS.MOD-lose
+loud              	JJ                	ku-adraw                    	KU-loud
+loud              	JJ                	kua-adraw-ane               	KUA-loud-NMLZ
+loud              	JJ                	kua-dra-adraw               	KUA-RED-loud
+made              	VBN,VBD           	zuo                         	made
+make              	VB,VBP            	a-tu-kang-ane.\             	NMLZ-make-fish-NMLZ
+make              	VB,VBP            	paiya                       	make
+make              	VB,VBP            	saki                        	make
+make              	VB,VBP            	tinu                        	make
+make              	VB,VBP            	tu-a-lrepeng=aku.\          	make-RLS-finish=1S.BN
+make              	VB,VBP            	tu-a-lrevege                	make-RLS-millet
+make              	VB,VBP            	tu-a-siasi^lange-ane,\      	make-RLS-NMLZ-engage-NMLZ
+make              	VB,VBP            	tu-a-siasi^lange-ane.\      	make-RLS-NMLZ-engage-NMLZ
+make              	VB,VBP            	tu-a-siasilange-ane         	make-RLS-NMLZ-engage-NMLZ
+make              	VB,VBP            	tu-a-siasilange-ane,_       	make-RLS-NMLZ-engage-NMLZ
+make              	VB,VBP            	tu-kange=su.\               	make-fish=2S.BG
+make              	VB,VBP            	zuo                         	make
+male              	JJ                	la-mala-la,\                	PL-pal-male
+male              	JJ                	la-mala-la.\                	PL-pal-male
+male              	JJ                	la-malala                   	PL-pal-male
+male              	JJ                	la-malala,\                 	PL-male
+male              	JJ                	la-malalala                 	P-male
+male              	JJ                	lasu.\                      	male
+male              	JJ                	malalala                    	male
+male              	JJ                	nama-la-lala,_              	NAMA-PL-male
+male              	JJ                	nanfang                     	male
+male              	JJ                	sauvakai                    	male
+male              	JJ                	sauvalay                    	male
+male              	JJ                	sauvalay,\                  	male
+male              	JJ                	sauvalay.\                  	male
+male              	JJ                	sauvalay==,_                	male
+male              	JJ                	sawvalay                    	male
+male              	JJ                	sawvalay,\                  	male
+male              	JJ                	sawvalay.\                  	male
+male              	JJ                	sawvalay._                  	male
+male              	JJ                	sawvalay==-                 	male
+male              	JJ                	sawvalay=nga                	male=PFV
+male              	JJ                	taka-sawvalay-ane=su,\      	NMLZ-male-NMLZ=2S.BG
+male              	JJ                	tali-sauvalay-ane           	side-male-NMLZ
+many              	JJ                	ka-thathatha                	STAT.IRR-many
+many              	JJ                	ma-kalra                    	STAT.RLS-many
+many              	JJ                	ngu-ka-langaku              	NGU-STAT.RLS-many
+many              	JJ                	tapangale                   	many
+marry             	VB                	karu<draru>drange           	<RED>marry
+marry             	VB                	karudrange                  	marry
+marry             	VB                	lu-lri-karudrange           	if-FUT-marry
+marry             	VB                	ma-rudra-rudrange,_         	STAT.RLS-RED-marry
+marry             	VB                	rudra-rudrange-ane          	RED-marry-NMLZ
+marry             	VB                	ta-karudrarudrange-ane=ta   	NMLZ-marry-NMLZ=1P(IN).BG
+marry             	VB                	yapi-karudra=nga            	want-marry=PFV
+meaning           	VBG               	kakudhane                   	meaning
+meaning           	VBG               	kakudhane.\                 	meaning
+meaning           	VBG               	paluludane                  	meaning
+meet              	VB,VBP            	ki-a-pa-dra-dresenge        	PASS-REAL-CAU-RED-meet
+meet              	VB,VBP            	ki<pa><dra>dresenge         	<CAUS><RED>meet
+meet              	VB,VBP            	lani-alikai                 	then-meet
+meet              	VB,VBP            	lri-alikai                  	FUT-meet
+meet              	VB,VBP            	ma-dra-dresenge             	STAT.RLS-RED-meet
+meet              	VB,VBP            	ma-dra-dresenge             	MA-meet
+meet              	VB,VBP            	ma-dra-dresenge=ini.\       	MA-RED-meet=3S.BG
+meet              	VB,VBP            	ma-dradresenge              	MA-RED-meet
+meet              	VB,VBP            	ma-dradresenge              	STAT.RLS-meet
+meet              	VB,VBP            	ma-dre-dresenge             	STAT.RLS-RED-meet
+meet              	VB,VBP            	ma-dre-dresenge             	STAV.RLS-RED-meet
+millet            	VBN               	becenge                     	millet
+millet            	VBN               	kala-becenge-ane            	KALA-millet-NMLZ
+millet            	VBN               	ki-becenge                  	get-millet
+millet            	VBN               	sa-tu-lreveke-ane           	SA-do-millet-NMLZ
+millet            	VBN               	ta-ki-bece-becenge-ane.\    	LOC-get-RED-millet-NMLZ
+millet            	VBN               	tu-a-lrevege                	make-RLS-millet
+millet            	VBN               	tu-lreveke                  	TU-millet
+mistake           	VB                	amama-ma                    	mistake-RED
+modern            	JJ                	a-sa-sane-nga               	become-RED-modern=PFV
+mouse             	VB                	tila                        	mouse
+much              	JJ                	pingi-tha-thatha            	PINGI-RED-much
+much              	JJ                	pingkalra                   	much
+mysterious        	JJ                	mati-a-sa<mai>mali          	MATI-REAL-<RED>mysterious
+name              	VB                	la-nagane                   	P-name
+name              	VB                	la-nagane=ta                	P-name=1P(IN).BN
+name              	VB                	lu-su-nagane                	when-call-name
+name              	VB                	mu-su-nagane                	go-call-name
+name              	VB                	nagana                      	name
+name              	VB                	nagana=lini                 	name=3P.BG
+name              	VB                	nagana=ta                   	name=1P(IN).BN
+name              	VB                	nagana=ta                   	name=1P(IN).BG
+name              	VB                	nagane                      	name
+name              	VB                	nagane-ane                  	name-NMLZ
+name              	VB                	nagane=                     	name=1P(EX).BN
+name              	VB                	nagane=ini                  	name=3S.BG
+name              	VB                	nagane=ini,\                	name=3S.BG
+name              	VB                	nagane=nay                  	name=1P(EX).BN
+name              	VB                	nagane=su                   	name=第二人稱單數.附著屬格
+name              	VB                	nagane=ta                   	name=第一人稱複數(包含).附著屬格
+name              	VB                	nagane=ta                   	name=1P(IN).BN
+name              	VB                	nagane=ta                   	name=1P(IN).BG
+name              	VB                	si-nagane                   	call-name
+name              	VB                	su-a-naga-nagane            	call-RLS-RED-name
+name              	VB                	su-naga-nagane              	call-RED-name
+name              	VB                	su-nagane                   	call-name
+name              	VB                	su-nagane-a                 	call-name-IMP
+name              	VB                	su-nagane-ane               	call-name-NMLZ
+name              	VB                	su-nagane=su,_              	call-name=2S.BN
+name              	VB                	su-nagane=ta                	call-name=1P(IN).BG
+name              	VB                	su-nagane=ta                	call-name=1P(IN).BN
+name              	VB                	ta-su-naga-nagane=ta        	LOC-call-RED-name=1P(IN).BG
+name              	VB                	tasu-naga-nagane=ta         	create-RED-name=1P(IN).BN
+need              	VBP               	-mua                        	need
+need              	VBP               	a-tu-sarir-ane              	NMLZ-need-good-NMLZ
+need              	VBP               	madu                        	need
+need              	VBP               	madu,\                      	need
+need              	VBP               	madu,_                      	need
+need              	VBP               	madu.                       	need
+need              	VBP               	madu.\                      	need
+need              	VBP               	madu._                      	need
+need              	VBP               	madu==,\                    	need
+need              	VBP               	madu==,_                    	need
+need              	VBP               	maku                        	need
+need              	VBP               	yao                         	need
+new               	JJ                	ma-belana                   	STAT.RLS-new
+next              	JJ                	kaka-ya.\                   	next-day
+noble             	JJ                	<XtalialalaiX>              	noble
+noble             	JJ                	guizu                       	noble
+noble             	JJ                	talialalay                  	noble
+noble             	JJ                	talialalay,\                	noble
+noble             	JJ                	talialalay,_                	noble
+noble             	JJ                	talialalay-ane==,_          	noble-NMLZ
+noisy             	JJ                	ka-rariyau                  	STAT.IRR-noisy
+notify            	VBP               	daulu                       	notify
+obey              	VB                	tuamadu                     	obey
+old               	JJ                	lao                         	old
+old               	JJ                	sa-ka-sidrumane             	NMLZ-KA-old
+only              	JJ                	<L2Mcai                     	only
+only              	JJ                	laka^sane,\                 	only
+only              	JJ                	lakasane.\                  	only
+only              	JJ                	luka                        	only
+only              	JJ                	sa==ne                      	only
+only              	JJ                	sana                        	only
+only              	JJ                	sanaka                      	only
+open              	JJ,VB             	ni-ta-ucaebe-ane            	PFV-LOC-open-NMLZ
+open              	JJ,VB             	pangu-nganga                	use-open
+open              	JJ,VB             	ucaebe                      	open
+other             	JJ                	dru^ma==ne.\                	other
+other             	JJ                	kutumane                    	other
+other             	JJ                	la-drumane                  	P-other
+other             	JJ                	la-drumane                  	PL-other
+outside           	JJ                	mu-latadre                  	go-outside
+outside           	JJ                	mu-latradre                 	go-outside
+outside           	JJ                	yalatadre                   	outside
+pass              	VBP               	kia-matikai                 	pass-talk
+pass              	VBP               	lriba-lribate               	RED-pass
+pass              	VBP               	lribate                     	pass
+pass              	VBP               	lribate,_                   	pass
+pass              	VBP               	lu-ngi-lribate=nga          	when-REFL-pass=PFV
+pass              	VBP               	ma-lra-lribate              	RECP-RED-pass
+pass              	VBP               	ngi-lribate                 	REFL-pass
+pass              	VBP               	ta-ngi-lribate-ane          	LOC-manner-pass-NMLZ
+pass              	VBP               	tapangu                     	pass
+pass              	VBP               	w-a-lriba-lribate           	ACT-RLS-RED-pass
+pass              	VBP               	w-a-lriba-lribate,_         	ACT-RLS-RED-pass
+pass              	VBP               	w-a-lripate                 	ACT-RLS-pass
+pass              	VBP               	wa-lriba-lribate            	RLS-RED-pass
+pear              	JJ                	nasi                        	pear
+pick              	VB,VBP            	lapoto                      	pick
+pick              	VB,VBP            	makasiludu=nga              	RECP-pick=PFV
+pick              	VB,VBP            	polrupu-nai=ini             	pick-already=3S.BG
+pick              	VB,VBP            	siludu                      	pick
+play              	VB,VBP            	ki<a><va>vavange            	<RLS><RED>play
+play              	VB,VBP            	ki<va>vavange               	<RED>play
+play              	VB,VBP            	kivavange                   	play
+play              	VB,VBP            	ta-kivavange-ane            	LOC-play-NMLZ
+poor              	JJ                	ma-tiakolo                  	STAT.RLS-poor
+presbyter         	JJ                	kiacapili                   	presbyter
+protect           	VB                	baohu                       	protect
+protect           	VB                	kia-libake                  	PASS-protect
+public            	JJ                	<L2Mgongkai                 	public
+pull              	VB                	labu-labutu                 	RED-pull
+pull              	VB                	maka-pili-pili=nga          	can-RED-pull=PFV
+pull              	VB                	pa-ngu-druru-druru          	CAUS-NGU-RED-pull
+pull              	VB                	w-a-pili-pilipili           	ACT-REAL-RED-pull
+pull              	VB                	wa-bili-bilibili            	RLS-RED-pull
+pure              	JJ                	<L2M^shengjie               	pure
+pure              	JJ                	<L2Mchunjie                 	pure
+pure              	JJ                	^shengjiede                 	pure
+pure              	JJ                	ma-^bula,\                  	STAT.RLS-pure
+put               	VBN,VB,VBD        	kia-pu-lria-lrivale         	PASS-put-RED-ridicule
+put               	VBN,VB,VBD        	pa-pu-belelenge             	CAU-put-above
+put               	VBN,VB,VBD        	pa-pu-belenge               	CAUs-put-up
+put               	VBN,VB,VBD        	pa-si                       	CAUS-put
+put               	VBN,VB,VBD        	pa-sia                      	CAUS-put
+put               	VBN,VB,VBD        	pi-kay                      	put-this
+put               	VBN,VB,VBD        	pia                         	put
+put               	VBN,VB,VBD        	pu-a                        	put-RLZ
+put               	VBN,VB,VBD        	pu-a                        	put-RLS
+put               	VBN,VB,VBD        	pu-a                        	put-REAL
+put               	VBN,VB,VBD        	pu-a-lringa-lringaw         	put-RLS-RED-think
+put               	VBN,VB,VBD        	pu-a-lringau-lringau-lringau	put-RLS-RED-RED-think
+put               	VBN,VB,VBD        	pu-a-pulratuku              	put-RLS-put.in
+put               	VBN,VB,VBD        	pu-adringi                  	put-inside
+put               	VBN,VB,VBD        	pu-belenge                  	put-above
+put               	VBN,VB,VBD        	pu-belenge                  	put-up
+put               	VBN,VB,VBD        	pu-cakena=ini               	put-ground=3S.BG
+put               	VBN,VB,VBD        	pu-cavili=nga.\             	put-ceremony=PFV
+put               	VBN,VB,VBD        	pu-cilri                    	put-throw
+put               	VBN,VB,VBD        	pu-dria-dringay             	put-RED-be.good
+put               	VBN,VB,VBD        	pu-lebe                     	put-down
+put               	VBN,VB,VBD        	pu-lebe-ane                 	put-down-NMLZ
+put               	VBN,VB,VBD        	pu-lebe.\                   	put-down
+put               	VBN,VB,VBD        	pu-lebe=nga                 	put-down=PFV
+put               	VBN,VB,VBD        	pu-lringa-lringaw           	put-RED-think
+put               	VBN,VB,VBD        	pu-silu,_                   	put-lazurite
+put               	VBN,VB,VBD        	pua                         	put
+put               	VBN,VB,VBD        	pua-day-dayli-nga           	put-RED-be.far-PFV
+put               	VBN,VB,VBD        	sa-pu-kidremedreme-ane      	NMLZ-put-heart-NMLZ
+put               	VBN,VB,VBD        	ta-pi-kay-kay-ane           	NMLZ-put-RED-this-NMLZ
+put               	VBN,VB,VBD        	ta-pu-cavi-cavil-ane        	NMLZ-put-RED-ceremony-NMLZ
+put               	VBN,VB,VBD        	tara                        	CAUS-put
+quiet             	JJ                	icelrebe                    	quiet
+raise             	VB                	drakale                     	raise
+raise             	VB                	lapu                        	raise
+raise             	VB                	lau-lapu                    	Red-raise
+raise             	VB                	ngi-drakale                 	self-raise
+real              	JJ                	ka-dilrungu-ane             	real-pottery.pot-NMLZ
+real              	JJ                	ka-mea-meael-ane            	real-RED-dry-NMZ
+real              	JJ                	ka-ni-caeba-ane.\           	real-NMLZ-cover-NMLZ
+real              	JJ                	ka-palung-ane               	real-steel.pot-NMLZ
+real              	JJ                	ka-silu-ane                 	real-grass.bead-NMLZ
+real              	JJ                	ka-vai-ane                  	real-day-NMLZ
+real              	JJ                	kuna-tenga-tengane=nga      	KUNA-RED-real=PFV
+recall            	VBP               	ngu-lria-lringaw-ta         	NGU-RED-recall=1P(IN).BN
+recall            	VBP               	sangu-lria-lria-lringaw-ane=ta	SANGU-RED-RED-recall-NMLZ=1P(IN).BG
+recall            	VBP               	sangu-lrialringaw-ane       	let-recall-NMLZ
+replace           	VB                	surakele                    	replace
+respect           	VB,VBP            	mu-a-sakene                 	go-RLS-respect
+rest              	VB                	i<sadra>sadra               	<RED>rest
+return            	JJ,VBP            	kaingangai,\                	return
+return            	JJ,VBP            	ki-a-saulri-ana             	PASS-RLS-return-first
+return            	JJ,VBP            	saulri                      	return
+return            	JJ,VBP            	siulri=nga                  	return=PFV
+return            	JJ,VBP            	utavanane                   	return
+rice              	JJ                	a-aga-ane.\                 	NMLZ-rice-NMLZ
+rice              	JJ                	aga                         	rice
+rich              	JJ                	ma-esa-esaesya=su           	STAT.RLS-RED-rich=2S.BN
+river             	VB                	<L2MhechuanL2M>,\           	river
+river             	VB                	<L2MhechuanL2M>,_           	river
+river             	VB                	drake^rale,\                	river
+river             	VB                	drakerale                   	river
+river             	VB                	drakerane                   	river.
+river             	VB                	drakerane                   	river
+river             	VB                	kavay                       	river
+river             	VB                	mu-drakerale                	go-river
+river             	VB                	mu-drakerane                	go-river
+river             	VB                	mu-valru                    	go-river
+river             	VB                	mudrakerane                 	go-river
+river             	VB                	valru                       	river
+run               	VB                	lay-lay-lay                 	RED-RED-run
+run               	VB                	lay-laylay                  	RED-run
+run               	VB                	laylay                      	run
+run               	VB                	ubere                       	run
+running           	VBG               	lay-laylay.\                	RED-running
+save              	VB,VBP            	naw-palribulu               	want-save
+save              	VB,VBP            	sekete=nga                  	save=PFV
+say               	VB,VBP            	a-iya                       	RLS-say
+say               	VB,VBP            	a-iya-ane=li                	NMLZ-say-NMLLZ=1S.BG
+say               	VB,VBP            	a-iya-ane=li                	NMLZ-say-NMLZ=1S.BG
+say               	VB,VBP            	a-iya-ane=li                	RLS-say-NMLZ=1S.BG
+say               	VB,VBP            	a-iya-iya                   	RLS-<RED>-say
+say               	VB,VBP            	a-lu-iya-ane                	A-when-say-NMLZ
+say               	VB,VBP            	a-m-iya-kay                 	RLS-M-say-this
+say               	VB,VBP            	a-mati-kay-ane=li           	NMLZ-MATI-say-NMLZ=1S.BG
+say               	VB,VBP            	a-miya                      	A-say
+say               	VB,VBP            	a-pelaela-ane=li            	A-say-NMLZ=1S.BG
+say               	VB,VBP            	a-pelaela-ane=li            	NMLZ-say-NMLZ=1S.BG
+say               	VB,VBP            	amia                        	say
+say               	VB,VBP            	amia,,\                     	say
+say               	VB,VBP            	amia,\                      	say
+say               	VB,VBP            	amia-kay                    	say-this
+say               	VB,VBP            	amia-mia                    	RED-say
+say               	VB,VBP            	amia.\                      	say
+say               	VB,VBP            	amia._                      	say
+say               	VB,VBP            	amia=aku,\                  	say=1S.BN
+say               	VB,VBP            	amiya                       	say
+say               	VB,VBP            	amiya=nga=aku               	say=PFV=1S.BN
+say               	VB,VBP            	asi-a-mia                   	why-RLS-say
+say               	VB,VBP            	asi-amia                    	ASI-say
+say               	VB,VBP            	i-pelaela=aku               	FUT-say=1S.BN
+say               	VB,VBP            	iya                         	say
+say               	VB,VBP            	iya,\                       	say
+say               	VB,VBP            	iya-ane                     	say-NMLZ
+say               	VB,VBP            	iya-ane,\                   	say-NMLZ
+say               	VB,VBP            	iya-ane,_                   	say-NMLZ
+say               	VB,VBP            	iya-ane.\                   	say-NMLZ
+say               	VB,VBP            	iya-iya                     	say-RED
+say               	VB,VBP            	iya-iya                     	RED-say
+say               	VB,VBP            	iya-si                      	say-and
+say               	VB,VBP            	iya.                        	say
+say               	VB,VBP            	iya.\                       	say
+say               	VB,VBP            	iya=nga=ta                  	say=PFV=1P(IN).BN
+say               	VB,VBP            	iya=su                      	say=2S.BN
+say               	VB,VBP            	jiang                       	say
+say               	VB,VBP            	la-iya                      	then-say
+say               	VB,VBP            	laiye                       	say
+say               	VB,VBP            	lri-maka-iya                	FUT-POSS.MOD-say
+say               	VB,VBP            	lu-ia                       	if-say
+say               	VB,VBP            	lu-iya                      	if-say
+say               	VB,VBP            	lu-iya-ane                  	when-say-NMLZ
+say               	VB,VBP            	lu-iya=ta                   	IRR-say=2P.BN
+say               	VB,VBP            	m<iya>iya                   	<RED>say
+say               	VB,VBP            	ma-p<ela>ela                	REC-<RED>say
+say               	VB,VBP            	ma-p<ela>ela==              	REC-<RED>say
+say               	VB,VBP            	ma-p^<ela>ela               	REC-<RED>say
+say               	VB,VBP            	maka-u-riva-riva            	REC-MANNER-RED-say
+say               	VB,VBP            	mia                         	say
+say               	VB,VBP            	na-iya-ne                   	PAST-say-NMLZ
+say               	VB,VBP            	ngi-amia                    	REFL-say
+say               	VB,VBP            	ngi-m<iya>iya               	NGI-<RED>say
+say               	VB,VBP            	ngi-miya                    	REFL-say
+say               	VB,VBP            	p<ea>laela                  	<RED>say
+say               	VB,VBP            	p<ela>ela                   	<RED>say
+say               	VB,VBP            	pa-iya                      	CAUS-say
+say               	VB,VBP            	pealaela=nga                	say=PFV
+say               	VB,VBP            	pelaela                     	say
+say               	VB,VBP            	sa-iya                      	when-say
+say               	VB,VBP            	ta-iya-ane=li               	LOC-say-NMZ=1S.BG
+say               	VB,VBP            	ta-iya.\                    	NMLZ-say
+say               	VB,VBP            	ta-ngi-mia-mia-ane          	NMLZ-self-RED-say-NMLZ
+say               	VB,VBP            	ta-pelaela-ane=li           	NMLZ-say-NMLZ=1S.BG
+say               	VB,VBP            	ta=iya                      	1P(IN).BN=say
+say               	VB,VBP            	yasi==                      	say
+search            	VB                	sila-silape                 	RED-search
+search            	VB                	silape                      	search
+search            	VB                	takusilasilapu              	while-RED-search
+see               	VB,VBP            	dre-dre-dreele              	RED-RED-see
+see               	VB,VBP            	dre-dre-drele               	RED-RED-see
+see               	VB,VBP            	dre-dreele                  	RED-see
+see               	VB,VBP            	dre-dreelre                 	RED-see
+see               	VB,VBP            	dre-drel-ane                	RED-see-NMLZ
+see               	VB,VBP            	dre-drele                   	RED-see
+see               	VB,VBP            	dreeele,_                   	see
+see               	VB,VBP            	dreele                      	see
+see               	VB,VBP            	dreele-a                    	see-IMP
+see               	VB,VBP            	dreele-a,\                  	see-IMP
+see               	VB,VBP            	dreele-ana                  	see-firstly
+see               	VB,VBP            	dreele-ane                  	see-NMLZ
+see               	VB,VBP            	dreele-ane=ta               	see-NMLZ=1P(IN).BN
+see               	VB,VBP            	dreele=nga                  	see=PFV
+see               	VB,VBP            	dreele=numi                 	see=2P.BN
+see               	VB,VBP            	dreelre                     	see
+see               	VB,VBP            	drela                       	see
+see               	VB,VBP            	drele                       	see
+see               	VB,VBP            	drele==                     	see
+see               	VB,VBP            	drele=iniane                	see=3S.FO
+see               	VB,VBP            	drelel                      	see
+see               	VB,VBP            	drelel=aku                  	see=1S.BN
+see               	VB,VBP            	drelre                      	see
+see               	VB,VBP            	lu-drelel=aku               	when-see=1S.BN
+see               	VB,VBP            	nau-drele                   	want-see
+see               	VB,VBP            	pa-dre-drele                	CAUS-RED-see
+see               	VB,VBP            	sa-drele                    	when-see
+see               	VB,VBP            	ta-drele-ane=ini            	NMLZ-see-NMLZ=3S.BG
+see               	VB,VBP            	ta-u-ma-dre-dreele-ane      	LOC-go-RECP-RED-see-NMLZ
+see               	VB,VBP            	taki                        	see-RED-NMLZ=3S.BG
+see               	VB,VBP            	w-a-dre-dre-dreelele        	ACT-RLS-RED-RED-see
+see               	VB,VBP            	w-a-dre-dre-drele           	ACT-RLS-RED-RED-see
+see               	VB,VBP            	w-a-drele                   	ACT-RLS-see
+see               	VB,VBP            	w-a-drele=su                	ACT-RLS-see=2S.BN
+sell              	VB,VBP            	kilangai                    	sell
+sent              	VBN               	<L2Msongdao                 	sent
+separate          	JJ                	a-pavala                    	A-separate
+separate          	JJ                	lupau-drusa-ane             	separate-two-NMLZ
+separate          	JJ                	maka-mau-vaga-vagai=nga     	POSS.MOD-MAU-RED-separate=PFV
+separate          	JJ                	mau-vaga-vagay              	MAU-RED-separate
+serious           	JJ                	ngi-caeme                   	REFL-serious
+serious           	JJ                	pakialringaw                	serious
+shake             	VB                	dingi-dingi                 	RED-shake
+shake             	VB                	lrungulrungu                	shake
+shake             	VB                	lungu-lungulungulu          	RED-shake
+shake             	VB                	ngi-velevele                	REFL-shake
+shake             	VB                	sa-vele-velevele            	when-RED-shake
+shake             	VB                	vele-velevele               	RED-shake
+shoulder          	JJR,VB            	tukudru                     	shoulder
+shoulder          	JJR,VB            	w-a-dukudru                 	ACT-RLS-shoulder
+show              	VB                	pathingale                  	show
+sing              	VBG               	seasenay                    	sing
+sissy             	JJ                	avi-kicane,\                	AVI-sissy
+sissy             	JJ                	i-avi-ki^cane=su            	FUT-AVI-sissy=2S.BN
+sissy             	JJ                	palase.\                    	sissy
+sissy             	JJ                	viki^cane                   	sissy
+sleep             	JJ,VB,VBP         	apece                       	sleep
+sleep             	JJ,VB,VBP         	apece.\                     	sleep
+sleep             	JJ,VB,VBP         	apece=nga                   	sleep=PFV
+sleep             	JJ,VB,VBP         	lri-apece                   	FUT-sleep
+sleep             	JJ,VB,VBP         	lri-apece=nay               	FUT-sleep=1P(EX).BN
+sleep             	JJ,VB,VBP         	pece                        	sleep
+sleep             	JJ,VB,VBP         	sa-apece                    	when-sleep
+sleep             	JJ,VB,VBP         	sara-ape-apece              	early-RED-sleep
+sleep             	JJ,VB,VBP         	shui                        	sleep
+sleep             	JJ,VB,VBP         	shuijiao                    	sleep
+sleep             	JJ,VB,VBP         	ta-pe-apec-ane              	NMLZ-RED-sleep-NMLZ
+sleep             	JJ,VB,VBP         	ta-pe-apece-ane=ini.\       	NMLZ-RED-sleep-NMLZ=3S.BG
+sleep             	JJ,VB,VBP         	w-a-apece                   	ACT-RLS-sleep
+slow              	JJ                	ngiabalai                   	slow
+slow              	JJ                	ngiabalay                   	slow
+small             	JJ                	kua-tiki,\                  	KUA-small
+small             	JJ                	ngutiki                     	small
+small             	JJ                	pangu-tiki                  	use-small
+small             	JJ                	tiki-ane                    	small-NMLZ
+small             	JJ                	tiki-ane.\                  	small-NMLZ
+smart             	JJ                	ka-lrikilri                 	STAT.IRR-smart
+soft              	JJ                	karalruingi,_               	soft
+sometimes         	VBZ               	laikay                      	sometimes
+sound             	VBP               	mararariau                  	sound
+sour              	JJ                	ma-lriw                     	sour
+spinning          	VBG               	paelege.\                   	spinning
+spread            	VBN               	mu-gugu=nga                 	go-spread=PFV
+spread            	VBN               	ngi-sarade                  	self-spread
+spread            	VBN               	pa-ugugu=ini,               	CAUS-spread=3S.BG
+stand             	VB                	cegecege                    	stand
+stand             	VB                	ki-ta-ngi-dra<ka>kale-ane   	KI-LOC-REFL-<RED>stand-NMLZ
+start             	VB,VBP            	kaishiL2M>,\                	start
+start             	VB,VBP            	pasagil                     	start
+start             	VB,VBP            	pathagili                   	start
+steal             	VBZ,VBP           	k<ua>upa                    	<RED>steal
+steal             	VBZ,VBP           	kuaupa                      	steal
+steal             	VBZ,VBP           	kupa                        	steal
+steal             	VBZ,VBP           	kupa-ini                    	steal-3S.BG
+steal             	VBZ,VBP           	kupa=ini                    	steal=3S.BG
+steal             	VBZ,VBP           	kwaubauba                   	steal
+steal             	VBZ,VBP           	na=k<ua>upa                 	PAST-<RED>steal
+steal             	VBZ,VBP           	ni-kupa-ane                 	PASS-steal-NMLZ
+steal             	VBZ,VBP           	w-a-kupa                    	ACT-RLS-steal
+steal             	VBZ,VBP           	wa-kupa                     	ACT-RLS-steal
+sting             	VBG               	ki-lange-langedre           	PASS-RED-sting
+sting             	VBG               	ki-langedre                 	PASS-sting
+sting             	VBG               	lange-langedre              	RED-sting
+sting             	VBG               	sana-dai-daisi              	want-RED-sting
+strange           	JJ                	asiamia                     	strange
+stress            	VBP               	zhongshi                    	stress
+strong            	JJ                	ka-garange=su.\             	STAT.IRR-strong=2S.BN
+strong            	JJ                	ma-rakace                   	STAT.RLS-strong
+support           	VB                	drakale                     	support
+surprise          	JJ                	ka-samali                   	STAT.IRR-surprise
+surprise          	JJ                	ngi-tuluku                  	REFL-surprise
+surprise          	JJ                	pa-ngi-tuluku               	CAUS-self-surprise
+surprised         	VBN,JJ,VBD        	ka-samali                   	STAT.IRR-surprised
+surprised         	VBN,JJ,VBD        	ka-samali-mali              	STAT.IRR-surprised-RED
+surprised         	VBN,JJ,VBD        	ka-samali.\                 	surprised
+surprised         	VBN,JJ,VBD        	ma-samali,\                 	STAT.RLS-surprised
+surprised         	VBN,JJ,VBD        	samalri                     	surprised
+sway              	VB                	i-rarenge=su                	FUT-sway=2S.BN
+sway              	VB                	yara==-rarui                	YARA-sway
+sweat             	VB                	igipi==-                    	sweat
+sweat             	VB                	lri-kaugipi=su              	FUT-sweat=2SG.NOM
+sweep             	VB,VBP            	a-swape-ane,\               	NMLZ-sweep-NMLZ
+sweep             	VB,VBP            	i-suape=nay                 	I-sweep=1P(EX).BN
+sweep             	VB,VBP            	ki-suape-ane                	get-sweep-NMLZ
+sweep             	VB,VBP            	lri-suape=nay               	FUT-sweep=1P(EX).BN
+sweep             	VB,VBP            	seledre                     	sweep
+sweep             	VB,VBP            	suape                       	sweep
+swing             	VBG,VB,VBP        	^tuma,\                     	swing
+swing             	VBG,VB,VBP        	a-ngi-ta<lai>laisi.\        	become-REFL-<RED>swing
+swing             	VBG,VB,VBP        	lu                          	REFL-swing==2S.BN
+swing             	VBG,VB,VBP        	lu-ngi-talaisi              	when-REFL-swing
+swing             	VBG,VB,VBP        	mu-a-ngi-talaisi            	go-RLS-REFL-swing
+swing             	VBG,VB,VBP        	ngi-a-ta<lai>laisi          	REFL-RLS-<RED>swing
+swing             	VBG,VB,VBP        	ngi-a-ta<lai>laisi,\        	REFL-RLS-<RED>swing
+swing             	VBG,VB,VBP        	ngi-a-talaisi.\             	REFL-RLS-swing
+swing             	VBG,VB,VBP        	ngi-ta<lai>laisi            	REFL-<RED>swing
+swing             	VBG,VB,VBP        	ngi-ta<lai>laisi.\          	REFL-<RED>swing
+swing             	VBG,VB,VBP        	ngi-ta<lai>lasi,\           	manner-<RED>swing
+swing             	VBG,VB,VBP        	ngi-talai,                  	REFL-swing
+swing             	VBG,VB,VBP        	ngi-talaisi                 	REFL-swing
+swing             	VBG,VB,VBP        	ngi-talaisi                 	manner-swing
+swing             	VBG,VB,VBP        	ngi-talaisi,\               	manner-swing
+swing             	VBG,VB,VBP        	ngi-talaisi-ane             	manner-swing-NMA
+swing             	VBG,VB,VBP        	ngi-talaisi-ane             	manner-swing-NMLZ
+swing             	VBG,VB,VBP        	ngi-talaisi=su              	REFL-swing=2S.BG
+swing             	VBG,VB,VBP        	ngi-talaisi=su              	REFL-swing=2S.BN
+swing             	VBG,VB,VBP        	ta-ngi-ngi-ta<lai>laisi-ane,\	NMLZ-REFL-RED-<RED>swing-NMLZ
+swing             	VBG,VB,VBP        	ta-ngi-ta<lai>laisi-ane     	NMLZ-REFL-<RED>swing-NMLZ
+swing             	VBG,VB,VBP        	ta-ngi-talaisi-ane          	NMLZ-REFL-swing-NMLZ
+swing             	VBG,VB,VBP        	ta-ngi-talaisi-ane=ini,\    	NMLZ-REFL-swing-NMLZ=3S.BG
+swing             	VBG,VB,VBP        	talaisi                     	swing
+swing             	VBG,VB,VBP        	talaisi,\                   	swing
+swing             	VBG,VB,VBP        	talaisi.\                   	swing
+swing             	VBG,VB,VBP        	talaisi._                   	swing
+swing             	VBG,VB,VBP        	talaisi=ta                  	swing=1P(IN).BG
+swing             	VBG,VB,VBP        	talaisi=ta,_                	swing=1P(IN).BN
+swing             	VBG,VB,VBP        	tiyuma                      	swing
+swing             	VBG,VB,VBP        	tiyuma.\                    	swing
+swing             	VBG,VB,VBP        	tu-ngi-a-talaisi            	TU-REFL-RLS-swing
+swing             	VBG,VB,VBP        	tu==ma=lini                 	swing=3P.BG
+swing             	VBG,VB,VBP        	tuma                        	swing
+take              	VB,VBP            	(m)alra                     	take
+take              	VB,VBP            	a-lra-lra                   	take-RED-take
+take              	VB,VBP            	a-malra-ane                 	NMLZ-take-NMLZ
+take              	VB,VBP            	alra                        	take
+take              	VB,VBP            	alra,\                      	take
+take              	VB,VBP            	alra-ane                    	take-NMLZ
+take              	VB,VBP            	ecenge                      	take
+take              	VB,VBP            	ki-a-malra                  	PASS-RLS-take
+take              	VB,VBP            	ki-tu<kunu>kunui            	take<RED>jelly
+take              	VB,VBP            	lalra                       	take
+take              	VB,VBP            	lri-malra                   	IRR-take
+take              	VB,VBP            	lu-malra                    	when-take
+take              	VB,VBP            	maka-malra                  	POSS.MOD-take
+take              	VB,VBP            	maka-malra                  	RECP-take
+take              	VB,VBP            	maka-malra-ane              	RECP-take-NMLZ
+take              	VB,VBP            	malra                       	take
+take              	VB,VBP            	malra,_                     	take
+take              	VB,VBP            	malra-madu                  	take-must
+take              	VB,VBP            	malra-malra                 	RED-take
+take              	VB,VBP            	malra-malra.\               	RED-take
+take              	VB,VBP            	malra-malra=li              	RED-take=1S.BG
+take              	VB,VBP            	malra=aku                   	take=1S.BN
+take              	VB,VBP            	malra=ini                   	take=3S.BG
+take              	VB,VBP            	malra=ini,                  	take=3S.BG
+take              	VB,VBP            	malra=nga                   	take=PFV
+take              	VB,VBP            	malra=su                    	take=2SG.NOM
+take              	VB,VBP            	mu-alra-ane                 	go-take-NMLZ
+take              	VB,VBP            	nai-malra                   	FUT-take
+take              	VB,VBP            	ngu-a-kalra                 	take-RLS-be.many
+take              	VB,VBP            	ngu-kalra                   	take-be.many
+take              	VB,VBP            	ngu-vaeva                   	take-one
+take              	VB,VBP            	sa-malra                    	when-take
+take              	VB,VBP            	sana-malra-malra            	want-RED-take
+take              	VB,VBP            	ta-malra-malr-ane           	NMLZ-RED-take-NMLZ
+take              	VB,VBP            	ta-malra-malr-ane-ini       	NMLZ-RED-take-NMLZ-3SG.GEN
+take              	VB,VBP            	ta-malra-malr-ane=ini       	NMLZ-RED-take-NMLZ=3S.BG
+take              	VB,VBP            	ta-malra-malra-ane          	NMLZ-RED-take-NMLZ
+take              	VB,VBP            	w-a-malra                   	RLS-take
+take              	VB,VBP            	w-a-malra                   	ACT-RLS-take
+take              	VB,VBP            	w-a-malra,\                 	ACT-RLS-take
+take              	VB,VBP            	w-a-malra-malra             	ACT-RLS-RED-take
+take              	VB,VBP            	wa-malra                    	RLS-take
+take              	VB,VBP            	wa-malra-malra              	RLS-RED-take
+talk              	VB,VBP            	kauriva                     	talk
+talk              	VB,VBP            	ki-a-kau<ria>riva           	PASS-RLS-<RED>talk
+talk              	VB,VBP            	ki-a-kau<rira>^rira,\       	PASS-RLS-<RED>talk
+talk              	VB,VBP            	ki-a-matikai                	PASS-RLS-talk
+talk              	VB,VBP            	kia-matikai                 	pass-talk
+talk              	VB,VBP            	la-p<ela>ela                	then-<RED>talk
+talk              	VB,VBP            	maka-kauriva                	POSS.MOD-talk
+talk              	VB,VBP            	p<ela>ela                   	<RED>talk
+talk              	VB,VBP            	p<ela>ela                   	talk
+talk              	VB,VBP            	taru-malra                  	TARU-talk
+tall              	JJ                	a-belenge                   	STAT-tall
+teach             	VB,VBP            	a-bu-bulru                  	RLS-RED-teach
+teach             	VB,VBP            	abuluane                    	teach
+teach             	VB,VBP            	bulru                       	teach
+teach             	VB,VBP            	ki-bulru-bulru              	PASS-RED-teach
+teach             	VB,VBP            	sa-bulru-ane                	SA-teach-NMLZ
+teach             	VB,VBP            	ta-bulru-bulru-ane          	LOC-RED-teach-NMLZ
+teach             	VB,VBP            	wa-bulru=nay-ane            	RLS-teach=1P(EX).BN
+tell              	VB,VBP            	a-pelaela-ane=li            	NMLZ-tell-NMLZ=1S.BG
+tell              	VB,VBP            	lri-pelaela=aku             	FUT-tell=1S.BN
+tell              	VB,VBP            	pelaela                     	tell
+terrible          	JJ                	mati-kiu-kiucu              	very-RED-terrible
+thick             	JJ                	ma-ru-rudrumu               	STAT.RLS-RED-thick
+think             	VB,VBP            	a-thingale-ane-ta           	NMLZ-think-NMLZ=1P(IN).BG
+think             	VB,VBP            	kidredreme-ane,_            	think-NMLZ
+think             	VB,VBP            	ngu-lringaw=aku             	NGU-think=1SG.NOM
+think             	VB,VBP            	pu-a-lringa-lringaw         	put-RLS-RED-think
+think             	VB,VBP            	pu-a-lringau-lringau-lringau	put-RLS-RED-RED-think
+think             	VB,VBP            	pu-lringa-lringaw           	put-RED-think
+tie               	VBN,VB            	ni-kelenge-ane              	NMLZ-tie-NMLZ
+tie               	VBN,VB            	pa-karenge                  	CAUS-tie
+tie               	VBN,VB            	pa-lraugu                   	CAUS-tie
+tie               	VBN,VB            	pa-raisi,\                  	CAUS-tie
+tired             	VBN               	kualri,_                    	tired
+tired             	VBN               	sa-kidulru=nga              	when-tired=PFV
+tiring            	VBG               	kualri.\                    	tiring
+top               	JJ                	mu-belenge,\                	go-top
+touch             	JJ,VB             	ece-ecenge                  	RED-touch
+touch             	JJ,VB             	ecenge                      	touch
+touch             	JJ,VB             	ecenge=su                   	touch=2S.BN
+touch             	JJ,VB             	kuini                       	touch
+touch             	JJ,VB             	lri-maka-ecenge             	FUT-can-touch
+touch             	JJ,VB             	sa-ecenge                   	when-touch
+touch             	JJ,VB             	sua-sua-sulape              	RED-RED-touch
+touch             	JJ,VB             	tanaisi                     	touch
+touch             	JJ,VB             	w-a-e<ce>cenge              	ACT-RLS.<RED>touch
+touch             	JJ,VB             	w-a-ece<ce><ce>nge          	ACT-RLS-<RED>-<RED>-touch
+touch             	JJ,VB             	wa-ce-cecenge               	RLS-RED-touch
+traditional       	JJ                	chuantong                   	traditional
+treated           	VBN               	pa-sudaulru                 	CAUS-treated
+tree              	JJ                	angatu                      	tree
+tree              	JJ                	angatu,\                    	tree
+tree              	JJ                	angatu.\                    	tree
+tree              	JJ                	angtu                       	tree
+tree              	JJ                	la-angatu                   	PL-tree
+tree              	JJ                	ta-(a)ngatu-ane             	NMLZ-tree-NMLZ
+use               	VB,VBP            	^sarakayane                 	use
+use               	VB,VBP            	a-arakay                    	A-use
+use               	VB,VBP            	arakay                      	use
+use               	VB,VBP            	arakay==                    	use
+use               	VB,VBP            	arakay=ta                   	use=1P(IN).BN
+use               	VB,VBP            	nia-arakay-ane              	NIA-use-NMLZ
+use               	VB,VBP            	pa-pangua                   	RED-use
+use               	VB,VBP            	pangu                       	use
+use               	VB,VBP            	pangu-dalra-dalrane         	use-RED-field
+use               	VB,VBP            	pangu-dalrane=su.\          	use-field=2S.BN
+use               	VB,VBP            	pangu-nganga                	use-open
+use               	VB,VBP            	pangu-tiki                  	use-small
+use               	VB,VBP            	pangua                      	use
+use               	VB,VBP            	pangua-lratuku==            	use-through
+use               	VB,VBP            	parakay                     	use
+use               	VB,VBP            	sa-ara-kay-kay-ane          	NMLZ-use-RED-use-NMLZ
+use               	VB,VBP            	sa-arakay-ane               	when-use-NMLZ
+use               	VB,VBP            	sa-arakay-ane               	NMLZ-use-NMLZ
+use               	VB,VBP            	ta-ececenge-ane             	NMLZ-use-NMLZ
+use               	VB,VBP            	yong                        	use
+wade              	VB                	talubalre                   	wade
+wait              	VB,VBP            	ki-lavalava                 	PASS-wait
+wait              	VB,VBP            	lri-adraudrau=numi          	FUT-wait=2P.BN
+wait              	VB,VBP            	lri-tara-e-adraw-draw=su    	FUT-NEC.MOD-FIL-wait-RED=2S.BN
+wait              	VB,VBP            	mu-a-ka-lava                	go-REAL-state-wait
+wait              	VB,VBP            	sa-ki-lavalava-ane          	when-PASS-wait-NMLZ
+wait              	VB,VBP            	u-ka-lavalava               	go-STAT.IRR-wait
+wait              	VB,VBP            	ukalava                     	wait
+walk              	VBN,VB,VBP        	ka-tuase                    	STAT.IRR-walk
+want              	VB,VBP            	<L2MyaobaL2M>,\             	want
+want              	VB,VBP            	lapi                        	want
+want              	VB,VBP            	madu                        	want
+want              	VB,VBP            	nau                         	want
+want              	VB,VBP            	nau-drele                   	want-see
+want              	VB,VBP            	nau-mu-a                    	want-go-RLS
+want              	VB,VBP            	naw                         	want
+want              	VB,VBP            	naw-palribulu               	want-save
+want              	VB,VBP            	naw==,\                     	want
+want              	VB,VBP            	sana-dai-daisi              	want-RED-sting
+want              	VB,VBP            	sana-garauraucu             	want-catch
+want              	VB,VBP            	sana-malra-malra            	want-RED-take
+want              	VB,VBP            	yao                         	want
+want              	VB,VBP            	yapi-karudra=nga            	want-marry=PFV
+wash              	VB,VBP            	a-sinaw-ane                 	A-wash-NMLZ
+wash              	VB,VBP            	sinaw                       	wash
+watch             	VB                	a-drangalru-ane             	NMLZ-watch-NMLZ
+watch             	VB                	dre-drela                   	RED-watch
+watch             	VB                	sia-<va>-vava               	<RED>-watch
+watch             	VB                	sia-va-vava                 	<RED>-watch
+waver             	VB                	ngi-a-vele-vele             	REFL-RLS-RED-waver
+weak              	JJ                	ta-turamuru-ane             	LOC-weak-NMLZ
+wear              	JJ,VB,VBP         	chuan                       	wear
+wear              	JJ,VB,VBP         	chuanzhe                    	wear
+wear              	JJ,VB,VBP         	chuanzhuo                   	wear
+wear              	JJ,VB,VBP         	si-a-va-vava                	wear-RLS-RED-toy
+wear              	JJ,VB,VBP         	si-laimay                   	wear-cloth
+wear              	JJ,VB,VBP         	sia-va-vava                 	wear-RED-toy
+wear              	JJ,VB,VBP         	sia-va-vava.\               	wear-RED-toy
+wear              	JJ,VB,VBP         	ta-si-lai-may-may-ane,\     	NMLZ-wear-cloth-RED-cloth-NMLZ
+wedding           	VBG               	jiehun                      	wedding
+wedding           	VBG               	karudrarudrang=ta           	wedding=1P(IN).BG
+wedding           	VBG               	karudrarudrange             	wedding
+whistle           	VB                	puatupipi                   	whistle
+wonderful         	JJ                	mati-a-dadalame             	very-RLS-wonderful
+work              	VB,VBP            	a-ung-ane                   	NMLZ-work-NMLZ
+work              	VB,VBP            	a-unga-ne                   	NMLZ-work-NMLZ
+work              	VB,VBP            	aungane                     	work
+work              	VB,VBP            	aungane=ta,\                	work=1P(IN).BG
+work              	VB,VBP            	aungu                       	work
+work              	VB,VBP            	kauaungu                    	work
+work              	VB,VBP            	kaungu                      	work
+work              	VB,VBP            	kawaungu                    	work
+work              	VB,VBP            	lri-tuatumane=su            	FUT-work=2S.BN
+work              	VB,VBP            	lu-kaungu=su,\              	if-work=2S.BN
+work              	VB,VBP            	maungu.\                    	work
+work              	VB,VBP            	ngi-tuatumane               	manner-work
+work              	VB,VBP            	sa-tuatumane                	SA-work
+work              	VB,VBP            	si                          	work
+work              	VB,VBP            	ta-kau-aua-ngu-ane=ini.\    	NMLZ-work-RED-work-NMLZ=3S.BG
+wrong             	JJ                	ngi-akalrimadu-ma==du       	self-wrong-RED
+wrong             	JJ                	ngi-akalrimadu-madu         	REFL-wrong-RED
+wrong             	JJ                	ngi-akalrimadu-madu-madu    	REFL-wrong-RED-RED
+yell              	VB                	dau-dau-dau                 	RED-RED-yell
+yell              	VB                	rea-reale                   	RED-yell
+yell              	VB                	tautau,/                    	yell
+yell              	VB                	tautautau                   	yell
+yell              	VB                	w-a-tau-tautau.\            	ACT-RLS-RED-yell
+yell              	VB                	w-a-tautau.\                	ACT-RLS-yell
+young             	JJ                	i-a-cenge-cenge             	LOC-REAL-RED-young

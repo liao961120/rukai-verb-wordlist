@@ -40,13 +40,22 @@ for x in load_json("all_lang.json"):
     gloss = x['gloss']
     # Gloss tokens
     for o, e, z in gloss:
-        e = e.replace('<', '-').replace('>', '-').replace('=', '-').strip('.').replace('.', ' ').split('-')
-        for tk in e:
+        e2 = e.replace('<', '-').replace('>', '-').replace('=', '-').strip('.').replace('.', ' ').split('-')
+        for tk in e2:
             if tk in CANDIDATE_VERB_LIST:
                 POS_VERB_LIST.add(
                     (tk, 
                     ','.join(CANDIDATE_VERB_LIST[tk]),
-                    o
+                    o,
+                    e
+                    )
+                )
+            if tk == "STAT":
+                POS_VERB_LIST.add(
+                    (tk, 
+                    "None",
+                    o,
+                    e
                     )
                 )
 
@@ -67,9 +76,15 @@ for x in load_json("all_lang.json"):
 
 # candidates = en_tokens.intersection(va2)
 candidates = POS_VERB_LIST
-candidates = sorted(POS_VERB_LIST, reverse=True, key=lambda x: (x[1], x[0])
+candidates = sorted(POS_VERB_LIST, reverse=False, key=lambda x: (x[0], x[1], x[2])
 )
 with open("output.txt", "w") as f:
-    for a, b, c in candidates:
-        f.write("{a: <15}\t{b: <18}\t{c}\n".format(a=a, b=b, c=c))
+    f.write("{a: <18}\t{b: <18}\t{c: <28}\t{d}\n\n".format(
+        a="Verb_from_#e",
+        b="PoS_from_#e",
+        c="Rukai_gloss",
+        d="Eng_gloss"
+    ))
+    for a, b, c, d in candidates:
+        f.write("{a: <18}\t{b: <18}\t{c: <28}\t{d}\n".format(a=a, b=b, c=c, d=d))
 # %%
